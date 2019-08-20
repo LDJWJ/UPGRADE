@@ -10,3 +10,4 @@
 * 시각화
   * [The R Graph Gallery](https://www.r-graph-gallery.com/)
   * [ggplot extension](http://www.ggplot2-exts.org/gallery/)
+  * [R ggplot 예제 doc](http://www.sthda.com/english/wiki/ggplot2-barplots-quick-start-guide-r-software-and-data-visualization)
