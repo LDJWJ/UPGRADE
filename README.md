@@ -17,3 +17,6 @@
 
 # 빅데이터 & AI 대회
 * [네이버 AI 해커톤] (https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)
+
+# GITHUB RESUME
+* Chris Wanstrath : http://resume.github.io/?defunkt
