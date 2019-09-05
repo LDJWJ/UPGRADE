@@ -4,7 +4,7 @@
   * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
 
 ### CHEETSHEET
-  * R : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
+  * R 마크다운 : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
 
 ### 머신러닝
   * Feature Selection : [좋은내용](https://arxiv.org/abs/1601.07996)
