@@ -3,6 +3,9 @@
 ### DATASET
   * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
 
+### CHEETSHEET
+  * R : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
+
 ### 머신러닝
   * Feature Selection : [좋은내용](https://arxiv.org/abs/1601.07996)
 
@@ -24,3 +27,5 @@
 
 ### 저작권 만료 자료
 * 쿠텐베르크 전자책 : http://m.nextpub.net/
+
+
