@@ -27,5 +27,5 @@
 
 ### 저작권 만료 자료
 * 쿠텐베르크 전자책 : http://m.nextpub.net/
-
+* 저작권 참고 : https://sites.google.com/site/cclguide/cc-laiseonseu-keontencheu-sayong/02-chulcheopyosibangbeob
 
