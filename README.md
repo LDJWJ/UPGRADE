@@ -17,6 +17,9 @@
   * [The R Graph Gallery](https://www.r-graph-gallery.com/)
   * [ggplot extension](http://www.ggplot2-exts.org/gallery/)
   * [R ggplot 예제 doc](http://www.sthda.com/english/wiki/ggplot2-barplots-quick-start-guide-r-software-and-data-visualization)
+  
+* R_KoNLP 
+  * konlp_slide : https://www.slideshare.net/r-kor/r-konlp
 
 ### 빅데이터 & AI 대회
 * [네이버 AI 해커톤] (https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)
