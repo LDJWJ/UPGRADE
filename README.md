@@ -32,3 +32,5 @@
 * 쿠텐베르크 전자책 : http://m.nextpub.net/
 * 저작권 참고 : https://sites.google.com/site/cclguide/cc-laiseonseu-keontencheu-sayong/02-chulcheopyosibangbeob
 
+### 이미지 자료
+* https://www.shutterstock.com/home : 유료 
