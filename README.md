@@ -33,4 +33,4 @@
 * 저작권 참고 : https://sites.google.com/site/cclguide/cc-laiseonseu-keontencheu-sayong/02-chulcheopyosibangbeob
 
 ### 이미지 자료
-* https://www.shutterstock.com/home : 유료 
+* https://www.shutterstock.com/home : 유료 (매주 무료이미지 다운로드)
