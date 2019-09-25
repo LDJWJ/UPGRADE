@@ -11,6 +11,7 @@
   * 공공 데이터 포털 [Link](https://www.data.go.kr/)
   * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
   * 국토교통부 공공 데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
+  * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/kbig/datacube/dataset/dataset.page)
   
 ### CHEETSHEET
   * R 마크다운 : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
