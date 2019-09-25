@@ -12,6 +12,10 @@
   * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
   * 국토교통부 공공 데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
   * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/kbig/datacube/dataset/dataset.page)
+  * 영화 진흥 위원회[Link](https://www.kofic.or.kr/kofic/business/main/main.do)
+  * 한국 소비자원 참가격[Link](http://www.price.go.kr/tprice/portal/main/main.do)
+  * SK 텔레콤 빅데이터 허브[Link](http://www.bigdatahub.co.kr)
+  * 경기도 데이터 셋[Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do)
   
 ### CHEETSHEET
   * R 마크다운 : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
