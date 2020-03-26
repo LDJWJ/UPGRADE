@@ -6,6 +6,7 @@
   * UCI Machine Learning Repository(http://mlr.cs.umass.edu/ml/) : 웹 머신러닝 데이터 셋
   * Data.gov : 미국 정부 에이전시 데이터 제공 [Link](Data.gov)
   * Food Environment Atlas : 미국내 지역 식량 선택이 식단에 미치는 영향 데이터 제공 [Link](https://catalog.data.gov/dataset/food-environment-atlas-f4a22)
+  * Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
 
 ### 국내 데이터 셋
   * 공공 데이터 포털 [Link](https://www.data.go.kr/)
