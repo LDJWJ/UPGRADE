@@ -7,9 +7,9 @@
   * Udemy(https://www.udemy.com/) ***(무료/유료 강좌 사이트)
 
 ### 좋은 책(개인 의견)
-  * [머신러닝] 파이썬 라이브러리를 활용한 머신러닝 
-  * [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
-  * 
+  * [*****] [머신러닝] 파이썬 라이브러리를 활용한 머신러닝 
+  * [****] [딥러닝] 케라스 창시자에게 배우는 딥러닝
+  * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
 ### DATASET
   * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
