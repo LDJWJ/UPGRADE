@@ -1,5 +1,11 @@
 ### UPGRADE
 
+### 관련 강의 사이트
+  * 네이버 edwith(https://www.edwith.org/search/index) ****(좋음)
+  * Coursera(https://www.coursera.org/) ****(좋음)
+  * Udacity Courses(https://www.udacity.com/courses/all) ****(좋음)
+  * Udemy(https://www.udemy.com/) ***(무료/유료 강좌 사이트)
+
 ### DATASET
   * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
   * kaggle 데이터 셋 : [Kaggle](https://www.kaggle.com/datasets)
