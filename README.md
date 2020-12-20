@@ -73,6 +73,7 @@
 
 ### 머신러닝
   * Feature Selection : [좋은내용](https://arxiv.org/abs/1601.07996)
+  * 머신러닝 용어집(구글) : [Link](https://developers.google.com/machine-learning/glossary/#a)
 
 ### R
 * 공식문서
@@ -120,3 +121,7 @@
 * ☞ 눈누 https://noonnu.cc/
 * ☞ 구글폰트 https://fonts.google.com/
 
+### 책 집필 및 번역 관련
+ * Latex 문법 : [Link](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95#%EA%B5%AC%EB%B3%84_%EB%B6%80%ED%98%B8)
+ * Latex 변환 사이트 [Link1](https://www.mathjax.org/#demo) [Link2](https://arachnoid.com/latex/)
+ * MathType 다운로드 https://mathtype.softonic.kr/
