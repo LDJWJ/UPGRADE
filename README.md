@@ -125,5 +125,10 @@
  * Latex 문법 : [Link](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95#%EA%B5%AC%EB%B3%84_%EB%B6%80%ED%98%B8)
  * Latex 변환 사이트 [Link1](https://www.mathjax.org/#demo) [Link2](https://arachnoid.com/latex/)
  * MathType 다운로드 https://mathtype.softonic.kr/
+ 
+### 용어 및 사전
  * 머신러닝 용어집(구글) https://developers.google.com/machine-learning/glossary?hl=ko#s
  * 머신러닝 용어집(MS) https://docs.microsoft.com/ko-kr/dotnet/machine-learning/resources/glossary
+ * 통계학 용어집 http://www.kss.or.kr/bbs/board.php?bo_table=psd_sec [바로가기](http://www.kss.or.kr/bbs/board.php?bo_table=psd_sec)
+ 
+ 
