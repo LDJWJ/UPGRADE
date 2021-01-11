@@ -130,5 +130,6 @@
  * 머신러닝 용어집(구글) https://developers.google.com/machine-learning/glossary?hl=ko#s
  * 머신러닝 용어집(MS) https://docs.microsoft.com/ko-kr/dotnet/machine-learning/resources/glossary
  * 통계학 용어집 http://www.kss.or.kr/bbs/board.php?bo_table=psd_sec [바로가기](http://www.kss.or.kr/bbs/board.php?bo_table=psd_sec)
- 
+ * 국립국어원 https://korean.go.kr/
+ * 외국어를 자동으로 변환해 주는 사이트 https://hangulize.org/
  
