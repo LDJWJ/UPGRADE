@@ -29,7 +29,11 @@
   * SK 텔레콤 빅데이터 허브[Link](http://www.bigdatahub.co.kr)
   * 경기도 데이터 셋[Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do)
   * 경기 데이터 드림[Link](https://data.gg.go.kr/portal/mainPage.do)
-  
+
+### 통계사이트
+  * Population Stat - world statistical data [Link](https://populationstat.com/)
+
+
 ### CHEETSHEET
   * R 마크다운 : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
 
