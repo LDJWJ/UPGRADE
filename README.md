@@ -97,6 +97,7 @@
 ### 빅데이터 & AI 대회
 * [네이버 AI 해커톤] (https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)
 * 2019/09/02~2019/10/18 [빅데이터 캠퍼스](https://bigdata.seoul.go.kr/cntst/selectPageListCntst.do?r_id=P600)
+* WIDER FACE AND PERSON CHALLENGE [2019년](https://wider-challenge.org/2019.html) [2018년](https://wider-challenge.org/2018.html)
 
 ### GITHUB 
 * GITHUB RESUME : Chris Wanstrath : http://resume.github.io/?defunkt
