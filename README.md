@@ -134,7 +134,19 @@
 
 ### 문화.관광빅데이터 분석 대회 수상작
  * http://www.tourbigdata.kr/award.asp
- 
+
+### 공공 데이터 활용 BI공모전 - 산업 통상 자원부
+ * http://www.datacontest.kr/board/winning
+
+### 날씨 빅데이터 콘테스트
+ * http://www.datacontest.kr/board/winning
+
+### 서울특별시 빅데이터 캠퍼스
+ * https://bigdata.seoul.go.kr/noti/selectPageListTabNoti.do?r_id=P260
+
+### 문화 공공데이터 활용 경진대회
+ * https://www.culture.go.kr/contest/gallery.do?type=A&year=2020
+
 ### 용어 및 사전
  * 머신러닝 용어집(구글) https://developers.google.com/machine-learning/glossary?hl=ko#s
  * 머신러닝 용어집(MS) https://docs.microsoft.com/ko-kr/dotnet/machine-learning/resources/glossary
