@@ -147,6 +147,11 @@
 ### 문화 공공데이터 활용 경진대회
  * https://www.culture.go.kr/contest/gallery.do?type=A&year=2020
 
+
+### 2021년 문화 공공데이터 대회
+ * https://www.wevity.com/?c=find&s=1&gub=1&gbn=viewok&gp=3&ix=53033
+ * 
+
 ### 용어 및 사전
  * 머신러닝 용어집(구글) https://developers.google.com/machine-learning/glossary?hl=ko#s
  * 머신러닝 용어집(MS) https://docs.microsoft.com/ko-kr/dotnet/machine-learning/resources/glossary
