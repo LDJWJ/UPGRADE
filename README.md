@@ -149,7 +149,8 @@
 
 
 ### 2021년 문화 공공데이터 대회
- * https://www.wevity.com/?c=find&s=1&gub=1&gbn=viewok&gp=3&ix=53033
+ * https://www.wevity.com/?c=find&s=1&gub=1&gbn=viewok&gp=3&ix=53033  2021-06-28 ~ 2021-08-01
+
  * 
 
 ### 용어 및 사전
