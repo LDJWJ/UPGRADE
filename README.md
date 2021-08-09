@@ -78,7 +78,7 @@
 ### 머신러닝
   * Feature Selection : [좋은내용](https://arxiv.org/abs/1601.07996)
   * 머신러닝 용어집(구글) : [Link](https://developers.google.com/machine-learning/glossary/#a)
-
+ 
 ### R
 * 공식문서
   * [공식 레퍼런스문서-An Introduction to R](https://cran.r-project.org/)
