@@ -46,6 +46,13 @@
   * 경기도 데이터 셋[Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do)
   * 경기 데이터 드림[Link](https://data.gg.go.kr/portal/mainPage.do)
 
+### 금융
+  * Google Trend [Link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0)
+  * Nasdaq [Link](https://data.nasdaq.com/)
+
+### GIS
+  * 
+
 ### 통계사이트
   * Population Stat - world statistical data [Link](https://populationstat.com/)
 
