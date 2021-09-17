@@ -51,6 +51,7 @@
   * Nasdaq [Link](https://data.nasdaq.com/)
 
 ### GIS
+  * 각도시/나라 GIS정보 [Link](https://www.back4app.com/database/back4app/list-of-all-continents-countries-cities)
   * 
 
 ### 통계사이트
