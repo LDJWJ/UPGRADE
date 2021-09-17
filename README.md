@@ -11,7 +11,7 @@
   * [****] [딥러닝] 케라스 창시자에게 배우는 딥러닝
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
-### DATASET
+## DATASET
   * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
   * [*****] kaggle 데이터 셋 : [Kaggle](https://www.kaggle.com/datasets)
   * [*****] UCI Machine Learning Repository(http://mlr.cs.umass.edu/ml/) : 웹 머신러닝 데이터 셋
@@ -21,6 +21,20 @@
   * Food Environment Atlas : 미국내 지역 식량 선택이 식단에 미치는 영향 데이터 제공 [Link](https://catalog.data.gov/dataset/food-environment-atlas-f4a22)
   * Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
 
+### Agriculture - DataSet
+  * The global dataset of historical yields for major crops 1981–2016 [Link](https://doi.pangaea.de/10.1594/PANGAEA.909132)
+  * U.S. Department of Agriculture's Nutrient Database [Link](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
+
+### 기후 + 날씨
+  * Global Climate Data Since 1929 [Link](https://en.tutiempo.net/climate)
+  * NOAA(National CENTERS FOR ENVIRONMENTAL INFORMATION) [Link](https://www.ncdc.noaa.gov/data-access/quick-links)
+  * WorldClim [Link](https://www.worldclim.org/data/monthlywth.html) - 기후 데이터, 월별 기후 데이터
+
+### 경제
+  * Our World in Data [Link](https://ourworldindata.org/)
+  * OpenCorporates Database of Companies in the World [Link](https://opencorporates.com/) - 199,318,464개 데이터 셋(21/09/15 기준)
+  * 무역 통계(US) - UN Commodity Trade Statistics [Link](https://comtrade.un.org/data/)
+  
 ### 국내 데이터 셋
   * [*****] 공공 데이터 포털 [Link](https://www.data.go.kr/)
   * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
