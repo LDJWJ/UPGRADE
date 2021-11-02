@@ -183,13 +183,16 @@
  * https://www.wevity.com/?c=find&s=1&gub=1&gbn=viewok&gp=3&ix=53033  2021-06-28 ~ 2021-08-01
 
 ### 개발자 이력서 작성 참조
- * https://wonny.space/writing/work/engineer-resume
-   * [이력서 작성 체크 리스트 by Wonny](https://www.notion.so/by-Wonny-d8f197d6f0cb4f24ba3ad3c1cfb732b5)
+ * [이력서 작성 체크 리스트 by Wonny](https://www.notion.so/by-Wonny-d8f197d6f0cb4f24ba3ad3c1cfb732b5)
+ * [Outside Dev's story](https://blog.outsider.ne.kr/1234)
+ * [2017년 개발자 이력서 가이드](https://brunch.co.kr/@imagineer/215)
+ * [주니어 개발자 이력서 쓰기](https://speakerdeck.com/weirdx/99con-junieo-gaebaljayi-iryeogseo-sseugi-idongug?slide=45)
  * [인사담당자가 직접 말하는, 서류 통과가 잘 되는 이력서 by 원티드](https://brunch.co.kr/@wantedlab/29)
-
+ 
 ### 머신러닝 딥러닝 면접 질문 및 답변
  * [jamiejameskr blog](https://velog.io/@jamiejameskr/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80)
-
+ * [딥러닝 면접 질문 리스트](https://blog.naver.com/PostView.nhn?blogId=strike0115&logNo=221355230417&parentCategoryNo=&categoryNo=10&viewDate=&isShowPopularPosts=true&from=search)
+ * 
 
 ### 용어 및 사전
  * 머신러닝 용어집(구글) https://developers.google.com/machine-learning/glossary?hl=ko#s
