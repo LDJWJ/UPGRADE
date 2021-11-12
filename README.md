@@ -189,6 +189,16 @@
  * [주니어 개발자 이력서 쓰기](https://speakerdeck.com/weirdx/99con-junieo-gaebaljayi-iryeogseo-sseugi-idongug?slide=45)
  * [인사담당자가 직접 말하는, 서류 통과가 잘 되는 이력서 by 원티드](https://brunch.co.kr/@wantedlab/29)
  
+### 스터디 모임
+ * 생활코딩 [Link](https://www.facebook.com/groups/codingeverybody)
+ * 캐글 코리아 facebook 그룹 [Link](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)
+ * 가짜 연구소 [Link](https://pseudo-lab.com/)
+ * 모두의 연구소 [Link](https://modulabs.co.kr/)
+ * 싸이그래머 facebook 그룹 [Link](https://www.facebook.com/groups/psygrammer)
+ * 데이터뽀개기 facebook 그룹 [Link](https://www.facebook.com/groups/databreak)
+ * 텐서플로워 facebook 그룹 [Link](https://www.facebook.com/tensorflowAI)
+ * 케라스 코리아 facebook 그룹 [Link](https://www.facebook.com/groups/KerasKorea/)
+
 ### 머신러닝 딥러닝 면접 질문 및 답변
  * [jamiejameskr blog](https://velog.io/@jamiejameskr/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80)
  * [딥러닝 면접 질문 리스트](https://blog.naver.com/PostView.nhn?blogId=strike0115&logNo=221355230417&parentCategoryNo=&categoryNo=10&viewDate=&isShowPopularPosts=true&from=search)
