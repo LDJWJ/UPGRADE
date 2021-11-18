@@ -188,7 +188,8 @@
  * [2017년 개발자 이력서 가이드](https://brunch.co.kr/@imagineer/215)
  * [주니어 개발자 이력서 쓰기](https://speakerdeck.com/weirdx/99con-junieo-gaebaljayi-iryeogseo-sseugi-idongug?slide=45)
  * [인사담당자가 직접 말하는, 서류 통과가 잘 되는 이력서 by 원티드](https://brunch.co.kr/@wantedlab/29)
- 
+ * [구글 샘플 예](https://github.com/qbbang/PortFolio)
+
 ### 스터디 모임
  * 생활코딩 [Link](https://www.facebook.com/groups/codingeverybody)
  * 캐글 코리아 facebook 그룹 [Link](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)
