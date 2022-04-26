@@ -164,6 +164,7 @@
 
 ### 영어
  * 영어 연설문 사이트 : https://www.americanrhetoric.com/top100speechesall.html
+ * 영어 연설집 모음 : https://lvsin.tistory.com/439
 
 ### 문화.관광빅데이터 분석 대회 수상작
  * http://www.tourbigdata.kr/award.asp
