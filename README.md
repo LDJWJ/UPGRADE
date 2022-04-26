@@ -162,6 +162,8 @@
  * Latex 변환 사이트 [Link1](https://www.mathjax.org/#demo) [Link2](https://arachnoid.com/latex/)
  * MathType 다운로드 https://mathtype.softonic.kr/
 
+### 영어
+ * 영어 연설문 사이트 : https://www.americanrhetoric.com/top100speechesall.html
 
 ### 문화.관광빅데이터 분석 대회 수상작
  * http://www.tourbigdata.kr/award.asp
