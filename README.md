@@ -57,6 +57,10 @@
 ### 통계사이트
   * Population Stat - world statistical data [Link](https://populationstat.com/)
 
+### 위도와 경도 위치 찾기 사이트
+  * https://www.latlong.net/
+  * https://www.geoplaner.com/
+
 
 ### CHEETSHEET
   * R 마크다운 : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
