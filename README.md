@@ -15,12 +15,15 @@
   * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
   * [*****] kaggle 데이터 셋 : [Kaggle](https://www.kaggle.com/datasets)
   * [*****] UCI Machine Learning Repository(http://mlr.cs.umass.edu/ml/) : 웹 머신러닝 데이터 셋
+  * 통합 공공데이터 포털(전세계) - https://opendatainception.io/
+  * 아마존 데이터 셋 - https://registry.opendata.aws/
   * Data.gov : 미국 정부 에이전시 데이터 제공 [Link](Data.gov)
   * Data.gov : 영국 정부 에이전시 데이터 제공 [Link](https://data.gov.uk/)
   * HealthData.gov : 건강 데이터 [Link](https://healthdata.gov/)
   * Food Environment Atlas : 미국내 지역 식량 선택이 식단에 미치는 영향 데이터 제공 [Link](https://catalog.data.gov/dataset/food-environment-atlas-f4a22)
-  * Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
+  * 깃허브 데이터 모음 - Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
 
+ 
 ### Agriculture - DataSet
   * The global dataset of historical yields for major crops 1981–2016 [Link](https://doi.pangaea.de/10.1594/PANGAEA.909132)
   * U.S. Department of Agriculture's Nutrient Database [Link](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
@@ -37,6 +40,7 @@
   
 ### 국내 데이터 셋
   * [*****] 공공 데이터 포털 [Link](https://www.data.go.kr/)
+  * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/
   * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
   * 국토교통부 공공 데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
   * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/kbig/datacube/dataset/dataset.page)
