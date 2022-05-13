@@ -16,7 +16,7 @@
   * [*****] kaggle 데이터 셋 : [Kaggle](https://www.kaggle.com/datasets)
   * [*****] UCI Machine Learning Repository(http://mlr.cs.umass.edu/ml/) : 웹 머신러닝 데이터 셋
   * 통합 공공데이터 포털(전세계) - https://opendatainception.io/
-  * 아마존 데이터 셋 - https://registry.opendata.aws/
+  * 아마존 데이터 셋(AWS Public Datasets) - https://registry.opendata.aws/
   * Data.gov : 미국 정부 에이전시 데이터 제공 [Link](Data.gov)
   * Data.gov : 영국 정부 에이전시 데이터 제공 [Link](https://data.gov.uk/)
   * HealthData.gov : 건강 데이터 [Link](https://healthdata.gov/)
