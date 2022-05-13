@@ -11,6 +11,18 @@
   * [****] [딥러닝] 케라스 창시자에게 배우는 딥러닝
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
+### 국내 데이터 셋
+  * [*****] 공공 데이터 포털 [Link](https://www.data.go.kr/)
+  * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/
+  * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
+  * 국토교통부 공공 데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
+  * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/kbig/datacube/dataset/dataset.page)
+  * 영화 진흥 위원회[Link](https://www.kofic.or.kr/kofic/business/main/main.do)
+  * 한국 소비자원 참가격[Link](http://www.price.go.kr/tprice/portal/main/main.do)
+  * SK 텔레콤 빅데이터 허브[Link](http://www.bigdatahub.co.kr)
+  * 경기도 데이터 셋[Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do)
+  * 경기 데이터 드림[Link](https://data.gg.go.kr/portal/mainPage.do)
+
 ## DATASET
   * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
   * [*****] kaggle 데이터 셋 : [Kaggle](https://www.kaggle.com/datasets)
@@ -23,7 +35,6 @@
   * Food Environment Atlas : 미국내 지역 식량 선택이 식단에 미치는 영향 데이터 제공 [Link](https://catalog.data.gov/dataset/food-environment-atlas-f4a22)
   * 깃허브 데이터 모음 - Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
 
- 
 ### Agriculture - DataSet
   * The global dataset of historical yields for major crops 1981–2016 [Link](https://doi.pangaea.de/10.1594/PANGAEA.909132)
   * U.S. Department of Agriculture's Nutrient Database [Link](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
@@ -37,18 +48,6 @@
   * Our World in Data [Link](https://ourworldindata.org/)
   * OpenCorporates Database of Companies in the World [Link](https://opencorporates.com/) - 199,318,464개 데이터 셋(21/09/15 기준)
   * 무역 통계(US) - UN Commodity Trade Statistics [Link](https://comtrade.un.org/data/)
-  
-### 국내 데이터 셋
-  * [*****] 공공 데이터 포털 [Link](https://www.data.go.kr/)
-  * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/
-  * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
-  * 국토교통부 공공 데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
-  * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/kbig/datacube/dataset/dataset.page)
-  * 영화 진흥 위원회[Link](https://www.kofic.or.kr/kofic/business/main/main.do)
-  * 한국 소비자원 참가격[Link](http://www.price.go.kr/tprice/portal/main/main.do)
-  * SK 텔레콤 빅데이터 허브[Link](http://www.bigdatahub.co.kr)
-  * 경기도 데이터 셋[Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do)
-  * 경기 데이터 드림[Link](https://data.gg.go.kr/portal/mainPage.do)
 
 ### 금융
   * Google Trend [Link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0)
@@ -56,7 +55,15 @@
 
 ### GIS
   * 각도시/나라 GIS정보 [Link](https://www.back4app.com/database/back4app/list-of-all-continents-countries-cities)
-  * 
+
+### 캐글 데이터 셋 - 메모
+  * SpaceShip Titanic - Kaggle 대회 [Link](https://www.kaggle.com/competitions/spaceship-titanic/code)
+  * 와인 품질 데이터 셋. 와인품질 예측 [Link](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
+  * 수면을 통한 인간의 스트레스 감지 - 분류 [Link](https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep)
+  * Personal Key Indicators of Heart Disease - 2020년 CDC설문(40만명). 심장 질환 관련 데이터 [Link](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+  * 슈퍼스토어 데이터 세트 [Link](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+    * 슈퍼스토어의 판매 및 이익이 포함된 데이터 세트
+  * 우크라이나 러시아 전쟁 [Link](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?select=russia_losses_equipment.csv)
 
 ### 통계사이트
   * Population Stat - world statistical data [Link](https://populationstat.com/)
