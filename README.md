@@ -35,21 +35,21 @@
   * Food Environment Atlas : 미국내 지역 식량 선택이 식단에 미치는 영향 데이터 제공 [Link](https://catalog.data.gov/dataset/food-environment-atlas-f4a22)
   * 깃허브 데이터 모음 - Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
 
-### Agriculture - DataSet
+### DATASET - Agriculture - DataSet
   * The global dataset of historical yields for major crops 1981–2016 [Link](https://doi.pangaea.de/10.1594/PANGAEA.909132)
   * U.S. Department of Agriculture's Nutrient Database [Link](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
 
-### 기후 + 날씨
+### 정보 - 기후 + 날씨
   * Global Climate Data Since 1929 [Link](https://en.tutiempo.net/climate)
   * NOAA(National CENTERS FOR ENVIRONMENTAL INFORMATION) [Link](https://www.ncdc.noaa.gov/data-access/quick-links)
   * WorldClim [Link](https://www.worldclim.org/data/monthlywth.html) - 기후 데이터, 월별 기후 데이터
 
-### 경제
+### 정보 - 경제
   * Our World in Data [Link](https://ourworldindata.org/)
   * OpenCorporates Database of Companies in the World [Link](https://opencorporates.com/) - 199,318,464개 데이터 셋(21/09/15 기준)
   * 무역 통계(US) - UN Commodity Trade Statistics [Link](https://comtrade.un.org/data/)
 
-### 금융
+### 정보 - 금융
   * Google Trend [Link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0)
   * Nasdaq [Link](https://data.nasdaq.com/)
 
@@ -117,6 +117,10 @@
 ### 머신러닝
   * Feature Selection : [좋은내용](https://arxiv.org/abs/1601.07996)
   * 머신러닝 용어집(구글) : [Link](https://developers.google.com/machine-learning/glossary/#a)
+ 
+ [추천 시스템]
+  * 카카오 추천팀 Github - https://github.com/kakao/recoteam
+
  
 ### R
 * 공식문서
