@@ -224,6 +224,9 @@
  * 텐서플로워 facebook 그룹 [Link](https://www.facebook.com/tensorflowAI)
  * 케라스 코리아 facebook 그룹 [Link](https://www.facebook.com/groups/KerasKorea/)
 
+### 인공지능 과정
+ * 코드스테이트 부트캠프 [이동](https://www.codestates.com/course/ai?gclid=CjwKCAjwsfuYBhAZEiwA5a6CDAdHTYY4YqSb1w2ebvLTdXj5NCsFsSZ0J7ivxpITxo558_uVm0XnMxoCOygQAvD_BwE}
+
 ### 머신러닝 딥러닝 면접 질문 및 답변
  * [jamiejameskr blog](https://velog.io/@jamiejameskr/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80)
  * [딥러닝 면접 질문 리스트](https://blog.naver.com/PostView.nhn?blogId=strike0115&logNo=221355230417&parentCategoryNo=&categoryNo=10&viewDate=&isShowPopularPosts=true&from=search)
