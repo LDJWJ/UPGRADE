@@ -124,8 +124,7 @@
 
 ### 시각화
   * From Data to Viz - https://www.data-to-viz.com/ 
-![image](datatoviz.png){: width="100" height="100"}
-
+<center><img src="datatoviz.png" width="300" height="300"></center>
  
 ### R
 * 공식문서
