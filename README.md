@@ -13,6 +13,7 @@
 
 ### 국내 데이터 셋
   * [*****] 공공 데이터 포털 [Link](https://www.data.go.kr/)
+  * 데이터 안심구역 [이동하기](https://dsz.kdata.or.kr/svc/main/main.do)
   * 문화 빅데이터 플랫폼 [이동](https://www.bigdata-culture.kr/bigdata/user/main.do) - 회원가입
   * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/
   * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
@@ -207,6 +208,15 @@
 ### 문화 공공데이터 활용 경진대회
  * https://www.culture.go.kr/contest/gallery.do?type=A&year=2020
 
+### 주요 데이터 분석 사례
+ * [데이터안심구역](https://dsz.kdata.or.kr/svc/page/intro/data_analysis_list.do)
+   * (의료) 서울시 정신건강 서비스 지원 우선지역선정
+   * (지적재산권) 텍스트 마이닝을 활용한 지적재산권 트렌드 분석
+   * (지역활성화요인도출) 지역 분석을 통한 지역활성화 요인 도출 및 활성화 후보 지역 선정
+   * (교통)(버스노선개선) 버스노선 개선 및 추가 필요 대상 지역 선정 토대 마련
+   * (교통)(공영주차장추가후보지역선정) 공영 주차장 추가 후보지역 선정을 위한 분석
+   * (택배물량예측) 지역특성을 고려한 택배 물량 예측
+   * (카드고객군집분석) 카드 고객 군집 분석
 
 ### 2021년 문화 공공데이터 대회
  * https://www.wevity.com/?c=find&s=1&gub=1&gbn=viewok&gp=3&ix=53033  2021-06-28 ~ 2021-08-01
@@ -233,6 +243,7 @@
 
 ### 인공지능 과정
  * 코드스테이트 부트캠프 [이동](https://www.codestates.com/course/ai?gclid=CjwKCAjwsfuYBhAZEiwA5a6CDAdHTYY4YqSb1w2ebvLTdXj5NCsFsSZ0J7ivxpITxo558_uVm0XnMxoCOygQAvD_BwE}
+ * 데이터 안심구역 분석 캠프 [이동](https://dsz.kdata.or.kr/component/bbs/notice/detail.do?articleId=BbsArticle6728cb4c5bbe4ec09c182429f82131f8)
 
 ### 머신러닝 딥러닝 면접 질문 및 답변
  * [jamiejameskr blog](https://velog.io/@jamiejameskr/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80)
