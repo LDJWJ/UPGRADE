@@ -196,12 +196,6 @@
 ### 문화.관광빅데이터 분석 대회 수상작
  * http://www.tourbigdata.kr/award.asp
 
-### 문화체육관광부-문화데이터 활용 경진대회
- * [2021년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2021)
- * [2020년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2020)
- * [2019년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2019)
- * [2018년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2018)
-
 ### 공공 데이터 활용 BI공모전 - 산업 통상 자원부
  * http://www.datacontest.kr/board/winning
 
@@ -213,6 +207,12 @@
 
 ### 문화 공공데이터 활용 경진대회
  * https://www.culture.go.kr/contest/gallery.do?type=A&year=2020
+
+### 문화체육관광부-문화데이터 활용 경진대회
+ * [2021년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2021)
+ * [2020년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2020)
+ * [2019년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2019)
+ * [2018년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2018)
 
 ### 주요 데이터 분석 사례
  * [서울시공모전수상_2020] 서울시 어린이 교통사고 감소를 위한 빅데이터 및 AI 기반 新 어린이 보호구역 제안 [이동하기](https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P260&bbs_seq=427&ac_type=A1&sch_type=&sch_text=%EA%B5%90%ED%86%B5&currentPage=1)
