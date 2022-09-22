@@ -22,7 +22,9 @@
   * 한국 소비자원 참가격[Link](http://www.price.go.kr/tprice/portal/main/main.do)
   * SK 텔레콤 빅데이터 허브[Link](http://www.bigdatahub.co.kr)
   * 경기도 데이터 셋[Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do)
-  * 경기 데이터 드림[Link](https://data.gg.go.kr/portal/mainPage.do)
+  * 경기 데이터 드림[Link](https://data.gg.go.kr/portal/mainPage.do)]
+  * 교육 통계 서비스 [이동하기](https://kess.kedi.re.kr/mobile) 
+      * 초/중/고/대학별 졸업생 통계 
 
 ## DATASET
   * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
