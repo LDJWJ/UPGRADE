@@ -209,6 +209,7 @@
  * https://www.culture.go.kr/contest/gallery.do?type=A&year=2020
 
 ### 주요 데이터 분석 사례
+ * [서울시공모전]서울시 주차장 빅데이터 분석 및 활용 방안 [2017 빅캠 상시공모전](https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P260&bbs_seq=199&ac_type=A1&sch_type=&sch_text=%EC%A3%BC%EC%B0%A8&currentPage=1)
  * [데이터안심구역](https://dsz.kdata.or.kr/svc/page/intro/data_analysis_list.do)
    * (의료) 서울시 정신건강 서비스 지원 우선지역선정
    * (지적재산권) 텍스트 마이닝을 활용한 지적재산권 트렌드 분석
