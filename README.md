@@ -196,6 +196,12 @@
 ### 문화.관광빅데이터 분석 대회 수상작
  * http://www.tourbigdata.kr/award.asp
 
+### 문화체육관광부-문화데이터 활용 경진대회
+ * [2021년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2021)
+ * [2020년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2020)
+ * [2019년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2019)
+ * [2018년 수상작](https://www.culture.go.kr/data/contest/galleryView.do?type=A&year=2018)
+
 ### 공공 데이터 활용 BI공모전 - 산업 통상 자원부
  * http://www.datacontest.kr/board/winning
 
