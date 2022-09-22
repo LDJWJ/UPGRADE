@@ -13,6 +13,7 @@
 
 ### 국내 데이터 셋
   * [*****] 공공 데이터 포털 [Link](https://www.data.go.kr/)
+  * 문화 빅데이터 플랫폼 [이동](https://www.bigdata-culture.kr/bigdata/user/main.do) - 회원가입
   * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/
   * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
   * 국토교통부 공공 데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
