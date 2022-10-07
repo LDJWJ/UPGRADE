@@ -77,6 +77,12 @@
   * https://www.geoplaner.com/
 
 
+### github 마크 다운 관련 사이트 
+  * md 파일 preview - dillinger [이동](https://dillinger.io/) - MEMO : 이모티콘은 안보임.
+  * github Badge 만들기 - shiedls.io [이동](https://shields.io/)
+  * 이모티콘 추가 - webfx 이모티콘 cheat sheet [이동](https://www.webfx.com/tools/emoji-cheat-sheet/)
+  * 방문자수 넣기 - Hits [이동](https://hits.seeyoufarm.com/) - MEMO : 이동 후, github 주소를 넣고, 아래 코드를 readme.md에 붙이기
+
 ### CHEETSHEET
   * R 마크다운 : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
 
