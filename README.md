@@ -235,6 +235,10 @@
 ### 2021년 문화 공공데이터 대회
  * https://www.wevity.com/?c=find&s=1&gub=1&gbn=viewok&gp=3&ix=53033  2021-06-28 ~ 2021-08-01
 
+### github 관련
+ * github의 commit를 어떻게 할 것인가? sujinlee [깃허브로 취업하기](https://sujinlee.me/professional-github/)
+ * 마크다운 작성법 [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
 ### 개발자 이력서 작성 참조
  * [이력서 작성 체크 리스트 by Wonny](https://www.notion.so/by-Wonny-d8f197d6f0cb4f24ba3ad3c1cfb732b5)
  * [Outside Dev's story](https://blog.outsider.ne.kr/1234)
@@ -244,6 +248,14 @@
  * [구글 샘플 예](https://github.com/qbbang/PortFolio)
  * [Github - RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio), [Web](https://ryanfitzgerald.github.io/devportfolio/)
  * [Github - RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio), [Web](https://elastic-meninsky-aa7c74.netlify.app/)
+ * 수백개의 개발자 포트폴리오 [developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+   * 포트폴리오 예 개발자 [20chan](https://github.com/20chan/portfolio)
+   * 개발자 포트폴리오 [dinalab](http://www.dinablaszczak.com/)
+   * 창조적인 포트폴리오 [iRaul](https://github.com/iRaul/creative-portfolios)
+   * 포트폴리오 예 [최철웅 포트폴리오](https://ristretto-code.github.io/)
+ * 포트폴리오 디자이너 템플릿1 [startbootstrap](https://startbootstrap.com/previews/freelancer)
+ * 무료 20가지 이력서 템플릿2 [이동](https://www.creativebloq.com/career/free-resume-templates-111517854)
+ 
  
 ### 스터디 모임
  * 생활코딩 [Link](https://www.facebook.com/groups/codingeverybody)
@@ -271,3 +283,5 @@
  * 국립국어원 https://korean.go.kr/
  * 외국어를 자동으로 변환해 주는 사이트 https://hangulize.org/
  
+### 음악감상
+ * 편안함을 주는 첼로 브금 [이동](https://www.youtube.com/watch?v=E4WWYyS3rXQ)
