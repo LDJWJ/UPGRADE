@@ -1,0 +1,77 @@
+데이터 플랫폼 주소
+CONNECT (국립암센터)
+https://www.bigdata-cancer.kr
+e-나라지표(통계청)
+https://www.index.go.kr/
+KOSIS 국가통계포털(통계청)
+https://kosis.kr
+KT 빅데이터 플랫폼 (KT)
+https://www.bigdata-telecom.kr/
+경기지역경제포털 (경기도청)
+https://www.bigdata-region.kr
+경남빅데이터 허브플랫폼(경상남도)
+https://bigdata.gyeongnam.go.kr/
+공공데이터 포털(행정안전부)
+https://www.data.go.kr
+과학기술정보통신부 AI 허브(과학기술정보통신부)
+https://www.aihub.or.kr
+광주광역시빅데이터통합플랫폼(광주광역시)
+https://bigdata.gwangju.go.kr/
+국가교통 데이터 오픈마켓 (한국교통연구원)
+https://www.bigdata-transportation.kr
+국가교통정보센터(국토교통부)
+https://www.its.go.kr/
+국민연금 빅데이터 포털(국민연금공단)
+https://data.nps.or.kr
+교통사고 분석시스템(도로교통공단)
+http://taas.koroad.or.kr/ 
+금융빅데이터 (BC카드)
+https://www.bigdata-finance.kr 
+금융빅데이터 개방시스템 (신용정보원)
+https://credb.kcredit.or.kr 
+농식품 빅데이터거래소 (한국농수산식품유통공사)
+https://kadx.co.kr/ 
+디지털 산업혁신 데이터거래소 (한국산업기술시험원)
+https://www.bigdata-dx.kr 
+라이프로그 빅데이터플랫폼 (연세대원주 산학협력단)
+https://www.bigdata-lifelog.kr 
+마이크로 빅데이터 통합서비스(통계청)
+https://mdis.kostat.go.kr  
+문화 빅데이터 플랫폼 (한국문화정보원)
+https://www.bigdata-culture.kr/ 
+보건의료빅데이터 개방시스템(건강보험심사평가원)
+https://opendata.hira.or.kr  
+부산광역시 빅데이터 플랫폼(부산광역시)
+https://bigdata.busan.go.kr/ 
+산림 빅데이터 거래소 (한국임업진흥원)
+https://www.bigdata-forest.kr 
+서울 열린 데이터 광장 (서울시)
+https://data.seoul.go.kr/ 
+소방안전 빅데이터플랫폼 (소방청)
+https://www.bigdata-119.kr 
+스마트치안 빅데이터플랫폼 (경찰대학)
+https://www.bigdata-policing.kr 
+전라북도 빅데이터 허브(전라북도)
+https://www.bigdatahub.go.kr  
+전주시교통정보센터(전주시)
+http://www.jeonjuits.go.kr/ 
+주민등록인구통계(행정안전부)
+https://jumin.mois.go.kr/ 
+중소,중견기업빅데이터 플랫폼 (비즈온)
+https://www.bigdata-sme.kr 
+지방행정인허가데이터개방(행정안전부)
+https://www.localdata.go.kr 
+통계데이터센터(통계청)
+https://data.kostat.go.kr/ 
+통계지리정보서비스(통계청)
+https://sgis.kostat.go.kr/ 
+통합데이터지도(한국지능정보사회진흥원)
+https://www.bigdata-map.kr/ 
+한국데이터 거래소 (매일경제)
+https://kdx.kr 
+한국데이터진흥원 데이터스토어(한국데이터진흥원)
+https://www.datastore.or.kr  
+해양수산 빅데이터거래소 (한국해양수산개발원)
+https://www.bigdata-sea.kr  
+환경 비즈니스 빅데이터 (한국수자원공사)
+https://www.bigdata-environment.kr
