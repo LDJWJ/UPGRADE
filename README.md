@@ -77,6 +77,12 @@
   * https://www.geoplaner.com/
 
 
+### github 마크 다운 관련 사이트 
+  * md 파일 preview - dillinger [이동](https://dillinger.io/) - MEMO : 이모티콘은 안보임.
+  * github Badge 만들기 - shiedls.io [이동](https://shields.io/)
+  * 이모티콘 추가 - webfx 이모티콘 cheat sheet [이동](https://www.webfx.com/tools/emoji-cheat-sheet/)
+  * 방문자수 넣기 - Hits [이동](https://hits.seeyoufarm.com/) - MEMO : 이동 후, github 주소를 넣고, 아래 코드를 readme.md에 붙이기
+
 ### CHEETSHEET
   * R 마크다운 : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
 
@@ -153,6 +159,7 @@
 * [서명관련 www.signwell.com](https://www.signwell.com/online-signature/draw/)
 
 ### GITHUB 
+* GITHUB 기본 배우기  [w3school](https://www.w3schools.com/git/) [이동2](https://subicura.com/git/guide/basic.html#gui-%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5)
 * GITHUB RESUME : Chris Wanstrath : http://resume.github.io/?defunkt
 * GITHUB HTML 파일 : https://opentutorials.org/course/3084/18891
 
@@ -229,6 +236,10 @@
 ### 2021년 문화 공공데이터 대회
  * https://www.wevity.com/?c=find&s=1&gub=1&gbn=viewok&gp=3&ix=53033  2021-06-28 ~ 2021-08-01
 
+### github 관련
+ * github의 commit를 어떻게 할 것인가? sujinlee [깃허브로 취업하기](https://sujinlee.me/professional-github/)
+ * 마크다운 작성법 [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
 ### 개발자 이력서 작성 참조
  * [이력서 작성 체크 리스트 by Wonny](https://www.notion.so/by-Wonny-d8f197d6f0cb4f24ba3ad3c1cfb732b5)
  * [Outside Dev's story](https://blog.outsider.ne.kr/1234)
@@ -238,6 +249,14 @@
  * [구글 샘플 예](https://github.com/qbbang/PortFolio)
  * [Github - RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio), [Web](https://ryanfitzgerald.github.io/devportfolio/)
  * [Github - RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio), [Web](https://elastic-meninsky-aa7c74.netlify.app/)
+ * 수백개의 개발자 포트폴리오 [developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+   * 포트폴리오 예 개발자 [20chan](https://github.com/20chan/portfolio)
+   * 개발자 포트폴리오 [dinalab](http://www.dinablaszczak.com/)
+   * 창조적인 포트폴리오 [iRaul](https://github.com/iRaul/creative-portfolios)
+   * 포트폴리오 예 [최철웅 포트폴리오](https://ristretto-code.github.io/)
+ * 포트폴리오 디자이너 템플릿1 [startbootstrap](https://startbootstrap.com/previews/freelancer)
+ * 무료 20가지 이력서 템플릿2 [이동](https://www.creativebloq.com/career/free-resume-templates-111517854)
+ 
  
 ### 스터디 모임
  * 생활코딩 [Link](https://www.facebook.com/groups/codingeverybody)
@@ -265,3 +284,7 @@
  * 국립국어원 https://korean.go.kr/
  * 외국어를 자동으로 변환해 주는 사이트 https://hangulize.org/
  
+### 음악감상
+ * 편안함을 주는 첼로 브금 [이동](https://www.youtube.com/watch?v=E4WWYyS3rXQ)
+ * 가을에 듣는 명곡 [이동](https://www.youtube.com/watch?v=OA4xWoZ6Ygo)
+ * 미술관에 온 듯🎻여유롭고 클래식한 피아노 연주곡(https://www.youtube.com/watch?v=_dn5vYN2GWY)
