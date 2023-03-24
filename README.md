@@ -54,7 +54,7 @@
   * 무역 통계(US) - UN Commodity Trade Statistics [Link](https://comtrade.un.org/data/)
 
 ### 정보 - 금융
-  * Google Trend [Link](https://trends.google.com/trends/?q=google&ctab=0&geo=all&date=all&sort=0)
+  * Google Trend [Link](https://trends.google.com/home)
   * Nasdaq [Link](https://data.nasdaq.com/)
 
 ### GIS
