@@ -12,32 +12,50 @@
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
 ### 국내 데이터 셋
-  * [*****] 공공 데이터 포털 [Link](https://www.data.go.kr/)
-  * 데이터 안심구역 [이동하기](https://dsz.kdata.or.kr/svc/main/main.do)
-  * 문화 빅데이터 플랫폼 [이동](https://www.bigdata-culture.kr/bigdata/user/main.do) - 회원가입
+  * 공공 데이터 포털 [Link](https://www.data.go.kr/)
+  * 국가통계포털 [이동하기](http://kosis.kr/index/index.do)
   * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/
   * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
-  * 국토교통부 공공 데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
+  * 데이터 안심구역 [이동하기](https://dsz.kdata.or.kr/svc/main/main.do)
+  * 통계지리정보서비스 [Link](https://sgis.kostat.go.kr/view/index) 
   * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/kbig/datacube/dataset/dataset.page)
   * 영화 진흥 위원회[Link](https://www.kofic.or.kr/kofic/business/main/main.do)
   * 한국 소비자원 참가격[Link](http://www.price.go.kr/tprice/portal/main/main.do)
-  * SK 텔레콤 빅데이터 허브[Link](http://www.bigdatahub.co.kr)
+  * SK 텔레콤 빅데이터 허브(연결안됨)[Link](http://www.bigdatahub.co.kr)
   * 경기도 데이터 셋[Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do)
   * 경기 데이터 드림[Link](https://data.gg.go.kr/portal/mainPage.do)]
+  * 데이콘(Dacon) [Link](https://dacon.io/)
   * 교육 통계 서비스 [이동하기](https://kess.kedi.re.kr/mobile) 
       * 초/중/고/대학별 졸업생 통계 
-
-## DATASET
-  * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
+  * 문화 빅데이터 플랫폼 [이동](https://www.bigdata-culture.kr/bigdata/user/main.do) - 회원가입
+  * 국토교통부 공공데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
+  * 고용노동부 공공데이터 [Link](https://www.moel.go.kr/info/publicdata/publicopen/list.do)
+  * 보건복지부 공공데이터 [Link](https://www.mohw.go.kr/react/gm/sgm0101mn.jsp?PAR_MENU_ID=13&MENU_ID=13020101)
+  * 교육학관련Database&ResearchTool [Link](https://skku.libguides.com/c.php?g=626290&p=4367403)
+     
+## DATASET - 해외1
+  * Google Dataset Search - https://toolbox.google.com/datasetsearch 
   * [*****] kaggle 데이터 셋 : [Kaggle](https://www.kaggle.com/datasets)
   * [*****] UCI Machine Learning Repository(https://archive.ics.uci.edu/ml/index.php) : 웹 머신러닝 데이터 셋
-  * 통합 공공데이터 포털(전세계) - https://opendatainception.io/
+  * 깃허브 - Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
+  * 경제 데이터 셋 : [FRED](http://research.stlouisfed.org/fred2) ,[FRED](https://fred.stlouisfed.org/tags/series)
   * 아마존 데이터 셋(AWS Public Datasets) - https://registry.opendata.aws/
-  * Data.gov : 미국 정부 에이전시 데이터 제공 [Link](Data.gov)
-  * Data.gov : 영국 정부 에이전시 데이터 제공 [Link](https://data.gov.uk/)
   * HealthData.gov : 건강 데이터 [Link](https://healthdata.gov/)
   * Food Environment Atlas : 미국내 지역 식량 선택이 식단에 미치는 영향 데이터 제공 [Link](https://catalog.data.gov/dataset/food-environment-atlas-f4a22)
-  * 깃허브 데이터 모음 - Awesome Public Datasets [Link](https://github.com/awesomedata/awesome-public-datasets#machinelearning)
+  
+
+## DATASET - 해외2
+  * 통합 공공데이터 포털(전세계) - https://opendatainception.io/
+  * 일본통계국 - http://www.stat.go.jp/
+  * 미국정부 공개자료 공공데이터포털 - https://www.data.gov/
+  * 영국 국립 데이터 센터 - https://data.gov.uk/
+  * EU정보플랫폼 - https://www.europeandataportal.eu/
+  * 중국국립데이터센터 - http://data.stats.gov.cn/
+  * 홍콩정부 데이터센터 - https://data.gov.hk/ja/
+  * [조직] 경제협력개발기구(OECD) 데이터베이스 - https://data.oecd.org/
+  * [조직] 세계은행 공개정보 포털 - https://data.worldbank.org/
+  * [조직] 세계보건기구 - http://apps.who.int/gho/data/node.home
+  * [대학교] 카네기멜론대학교_통계학과 - http://lib.stat.cmu.edu/datasets/
 
 ### DATASET - Agriculture - DataSet
   * The global dataset of historical yields for major crops 1981–2016 [Link](https://doi.pangaea.de/10.1594/PANGAEA.909132)
