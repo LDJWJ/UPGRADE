@@ -11,6 +11,10 @@
   * [****] [딥러닝] 케라스 창시자에게 배우는 딥러닝
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
+
+### 데이터 분석 도구 및 활용 사이트
+orange datamining [Link](https://orangedatamining.com/)
+
 ### 국내 데이터 셋
   * 공공 데이터 포털 [Link](https://www.data.go.kr/)
   * 국가통계포털 [이동하기](http://kosis.kr/index/index.do)
