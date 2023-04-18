@@ -289,7 +289,10 @@ orange datamining [Link](https://orangedatamining.com/)
  * 데이터뽀개기 facebook 그룹 [Link](https://www.facebook.com/groups/databreak)
  * 텐서플로워 facebook 그룹 [Link](https://www.facebook.com/tensorflowAI)
  * 케라스 코리아 facebook 그룹 [Link](https://www.facebook.com/groups/KerasKorea/)
-
+ * Inflearn 스터디 모임 [Link](https://www.inflearn.com/community/studies)
+ * OKKY 스터디 모집 [Link](https://okky.kr/community/gathering)
+ * Holaworld 스터디, 사이드 프로젝트 팀원 모집 사이트 [Link](https://holaworld.io/)
+ 
 ### 인공지능 과정
  * 코드스테이트 부트캠프 [이동](https://www.codestates.com/course/ai?gclid=CjwKCAjwsfuYBhAZEiwA5a6CDAdHTYY4YqSb1w2ebvLTdXj5NCsFsSZ0J7ivxpITxo558_uVm0XnMxoCOygQAvD_BwE}
  * 데이터 안심구역 분석 캠프 [이동](https://dsz.kdata.or.kr/component/bbs/notice/detail.do?articleId=BbsArticle6728cb4c5bbe4ec09c182429f82131f8)
