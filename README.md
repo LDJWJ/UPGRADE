@@ -5,6 +5,7 @@
   * Coursera(https://www.coursera.org/) ****(좋음)
   * Udacity Courses(https://www.udacity.com/courses/all) ****(좋음)
   * Udemy(https://www.udemy.com/) ***(무료/유료 강좌 사이트)
+  * 이노베이션스퀘어 [Link](http://ictinnovation.kr/)
 
 ### 좋은 책(개인 의견)
   * [*****] [머신러닝] 파이썬 라이브러리를 활용한 머신러닝 
