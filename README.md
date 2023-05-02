@@ -17,13 +17,14 @@
 orange datamining [Link](https://orangedatamining.com/)
 
 ### 국내 데이터 셋
-  * 공공 데이터 포털 [Link](https://www.data.go.kr/)
+  * 문화 공공데이터광장 [Link](https://www.culture.go.kr/data/main/main.do) - 41,408,126건(23/05/02 기준)
+  * 공공 데이터 포털 [Link](https://www.data.go.kr/) - 58219건(23/05/02 기준)
   * 국가통계포털 [이동하기](http://kosis.kr/index/index.do)
-  * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/
-  * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/)
+  * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/ (약 300여건-23/05/02 기준)
+  * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/) - 7419건(23/05/02 기준)
   * 데이터 안심구역 [이동하기](https://dsz.kdata.or.kr/svc/main/main.do)
   * 통계지리정보서비스 [Link](https://sgis.kostat.go.kr/view/index) 
-  * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/kbig/datacube/dataset/dataset.page)
+  * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/)
   * 영화 진흥 위원회[Link](https://www.kofic.or.kr/kofic/business/main/main.do)
   * 한국 소비자원 참가격[Link](http://www.price.go.kr/tprice/portal/main/main.do)
   * SK 텔레콤 빅데이터 허브(연결안됨)[Link](http://www.bigdatahub.co.kr)
@@ -32,7 +33,7 @@ orange datamining [Link](https://orangedatamining.com/)
   * 데이콘(Dacon) [Link](https://dacon.io/)
   * 교육 통계 서비스 [이동하기](https://kess.kedi.re.kr/mobile) 
       * 초/중/고/대학별 졸업생 통계 
-  * 문화 빅데이터 플랫폼 [이동](https://www.bigdata-culture.kr/bigdata/user/main.do) - 회원가입
+  * 문화 빅데이터 플랫폼 [이동](https://www.bigdata-culture.kr/bigdata/user/main.do)-1339 - 회원가입
   * 국토교통부 공공데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
   * 고용노동부 공공데이터 [Link](https://www.moel.go.kr/info/publicdata/publicopen/list.do)
   * 보건복지부 공공데이터 [Link](https://www.mohw.go.kr/react/gm/sgm0101mn.jsp?PAR_MENU_ID=13&MENU_ID=13020101)
@@ -175,11 +176,14 @@ orange datamining [Link](https://orangedatamining.com/)
   * konlp_slide : https://www.slideshare.net/r-kor/r-konlp
 
 ### 빅데이터 & AI 대회
-* [빅콘테스트] (https://www.bigcontest.or.kr/)
-* [네이버 AI 해커톤] (https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)
-* 2019/09/02~2019/10/18 [빅데이터 캠퍼스](https://bigdata.seoul.go.kr/cntst/selectPageListCntst.do?r_id=P600)
+* 23.05.01~07.10(23년도) 공공데이터 활용 대회(아이디어, 빅데이터분석) [이동](https://datacontest.kr/apply/applyAdd/3) 
+* 06/15~06/28(22년도) - [문화.관광빅데이터 분석 대회](http://www.tourbigdata.kr/introduce.asp) - 국내 대학 및 대학원생
+* 06/22~07/31(22년도) [문화데이터 경진대회-문체부](https://www.culture.go.kr/data/contest/main.do) -문화데이터에 관심있는 대한민국 국민 누구나
+* 08/30~11/07(22년도) [빅콘테스트] (https://www.bigcontest.or.kr/) 
+* 22/0919 ~ 22/1102 [서울시 빅데이터 캠퍼스](https://bigdata.seoul.go.kr/cntst/selectPageListCntst.do?r_id=P600) 
 * WIDER FACE AND PERSON CHALLENGE [2019년](https://wider-challenge.org/2019.html) [2018년](https://wider-challenge.org/2018.html)
 * [서명관련 www.signwell.com](https://www.signwell.com/online-signature/draw/)
+* [네이버 AI 해커톤] (https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)
 
 ### GITHUB 
 * GITHUB 기본 배우기  [w3school](https://www.w3schools.com/git/) [이동2](https://subicura.com/git/guide/basic.html#gui-%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE-%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5)
@@ -227,9 +231,6 @@ orange datamining [Link](https://orangedatamining.com/)
  * http://www.tourbigdata.kr/award.asp
 
 ### 공공 데이터 활용 BI공모전 - 산업 통상 자원부
- * http://www.datacontest.kr/board/winning
-
-### 날씨 빅데이터 콘테스트
  * http://www.datacontest.kr/board/winning
 
 ### 서울특별시 빅데이터 캠퍼스
@@ -297,7 +298,8 @@ orange datamining [Link](https://orangedatamining.com/)
 ### 인공지능 과정
  * 코드스테이트 부트캠프 [이동](https://www.codestates.com/course/ai?gclid=CjwKCAjwsfuYBhAZEiwA5a6CDAdHTYY4YqSb1w2ebvLTdXj5NCsFsSZ0J7ivxpITxo558_uVm0XnMxoCOygQAvD_BwE}
  * 데이터 안심구역 분석 캠프 [이동](https://dsz.kdata.or.kr/component/bbs/notice/detail.do?articleId=BbsArticle6728cb4c5bbe4ec09c182429f82131f8)
-
+ * 삼성 SSAFY : [이동](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 신청 : ~05/08, 교육기간 : 23/07~24/06
+ 
 ### 머신러닝 딥러닝 면접 질문 및 답변
  * [jamiejameskr blog](https://velog.io/@jamiejameskr/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%8B%B5%EB%B3%80)
  * [딥러닝 면접 질문 리스트](https://blog.naver.com/PostView.nhn?blogId=strike0115&logNo=221355230417&parentCategoryNo=&categoryNo=10&viewDate=&isShowPopularPosts=true&from=search)
