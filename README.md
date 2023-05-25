@@ -132,6 +132,11 @@ orange datamining [Link](https://orangedatamining.com/)
   * R 마크다운 : https://www.rstudio.com/wp-content/uploads/2016/02/rmarkdown-cheatsheet-kr.pdf
 
 
+### 북마크 메모 
+ * AI의 모든 것 : A에서 Z까지 [이동](https://atozofai.withgoogle.com/intl/ko/datasets/)
+
+
+
 ### 딥러닝 자료
   * 테리님 추천 자료 링크
   * [무료 강좌 - 섬머스쿨]
