@@ -17,27 +17,28 @@
 orange datamining [Link](https://orangedatamining.com/)
 
 ### 국내 데이터 셋
-  * 문화 공공데이터광장 [Link](https://www.culture.go.kr/data/main/main.do) - 41,408,126건(23/05/02 기준)
-  * 공공 데이터 포털 [Link](https://www.data.go.kr/) - 58219건(23/05/02 기준)
-  * 국가통계포털 [이동하기](http://kosis.kr/index/index.do)
-  * AI HUB - 정부에서 예산으로 들여 17년부터 시작한 데이터 구축 사업 https://aihub.or.kr/ (약 300여건-23/05/02 기준)
-  * 서울 열린데이터 광장 [Link](https://data.seoul.go.kr/) - 7419건(23/05/02 기준)
-  * 데이터 안심구역 [이동하기](https://dsz.kdata.or.kr/svc/main/main.do)
-  * 통계지리정보서비스 [Link](https://sgis.kostat.go.kr/view/index) 
-  * K-ICT 빅데이터 센터 데이터 [Link](https://kbig.kr/portal/)
-  * 영화 진흥 위원회[Link](https://www.kofic.or.kr/kofic/business/main/main.do)
-  * 한국 소비자원 참가격[Link](http://www.price.go.kr/tprice/portal/main/main.do)
-  * SK 텔레콤 빅데이터 허브(연결안됨)[Link](http://www.bigdatahub.co.kr)
-  * 경기도 데이터 셋[Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do)
-  * 경기 데이터 드림[Link](https://data.gg.go.kr/portal/mainPage.do)]
-  * 데이콘(Dacon) [Link](https://dacon.io/)
-  * 교육 통계 서비스 [이동하기](https://kess.kedi.re.kr/mobile) 
-      * 초/중/고/대학별 졸업생 통계 
-  * 문화 빅데이터 플랫폼 [이동](https://www.bigdata-culture.kr/bigdata/user/main.do)-1339 - 회원가입
-  * 국토교통부 공공데이터 [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp)
-  * 고용노동부 공공데이터 [Link](https://www.moel.go.kr/info/publicdata/publicopen/list.do)
-  * 보건복지부 공공데이터 [Link](https://www.mohw.go.kr/react/gm/sgm0101mn.jsp?PAR_MENU_ID=13&MENU_ID=13020101)
-  * 교육학관련Database&ResearchTool [Link](https://skku.libguides.com/c.php?g=626290&p=4367403)
+| 구분 | 링크 | 비고 |
+| --- | --- | --- |
+| 😄 문화 공공데이터광장  | [Link](https://www.culture.go.kr/data/main/main.do) | 41,408,126건(23/05/02 기준) | 
+| 🔍 공공 데이터 포털 | [Link](https://www.data.go.kr/)  | 58219건(23/05/02 기준) |
+| 국가통계포털 | [이동하기](http://kosis.kr/index/index.do) | - |
+| AI HUB | [Link](https://aihub.or.kr/) | 약 300여건 (23/05/02 기준) |
+| 서울 열린데이터 광장 | [Link](https://data.seoul.go.kr/) | 7419건 (23/05/02 기준) |
+| 데이터 안심구역 | [이동하기](https://dsz.kdata.or.kr/svc/main/main.do) | - |
+| 통계지리정보서비스 | [Link](https://sgis.kostat.go.kr/view/index) | - |
+| K-ICT 빅데이터 센터 데이터 | [Link](https://kbig.kr/portal/) | - |
+| 영화 진흥 위원회 | [Link](https://www.kofic.or.kr/kofic/business/main/main.do) | - |
+| 한국 소비자원 참가격 | [Link](http://www.price.go.kr/tprice/portal/main/main.do) | - |
+| SK 텔레콤 빅데이터 허브 | [Link](http://www.bigdatahub.co.kr) | (연결 안됨) |
+| 경기도 데이터 셋 | [Link](https://data.gg.go.kr/portal/data/dataset/searchDatasetPage.do) | - |
+| 경기 데이터 드림 | [Link](https://data.gg.go.kr/portal/mainPage.do) | - |
+| 데이콘(Dacon) | [Link](https://dacon.io/) | - |
+| 교육 통계 서비스 | [이동하기](https://kess.kedi.re.kr/mobile) | 초/중/고/대학별 졸업생 통계 |
+| 문화 빅데이터 플랫폼 | [이동](https://www.bigdata-culture.kr/bigdata/user/main.do) | 1339 - 회원가입 |
+| 국토교통부 공공데이터 | [Link](http://www.molit.go.kr/USR/WPGE0201/m_35445/DTL.jsp) | - |
+| 고용노동부 공공데이터 | [Link](https://www.moel.go.kr/info/publicdata/publicopen/list.do) | - |
+| 보건복지부 공공데이터 | [Link](https://www.mohw.go.kr/react/gm/sgm0101mn.jsp?PAR_MENU_ID=13&MENU_ID=13020101) | - |
+| 교육학 관련 Database & Research Tool | [Link](https://skku.libguides.com/c.php?g=626290&p=4367403) | - |
      
 ## DATASET - 해외1
   * Google Dataset Search - https://toolbox.google.com/datasetsearch 
