@@ -13,7 +13,15 @@
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
 ###  유용한 사이트 
-Gamma [Link](https://gamma.app/)
+ * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
+ * Bing 이미지 생성 - [Link](https://www.bing.com/images/create)
+ * Playground AI - 게임 에셋 제작 [Link](https://playgroundai.com/)
+ * Craiyon [Link](https://www.craiyon.com/)
+ * 무료 이미지 생성 - stability.ai [Link](https://stability.ai/blog/stable-diffusion-public-release)
+ * Dream Studio [Link]( )
+ * Dream by Wombo [Link](https://dream.ai/create)
+ * stability.ai demo [Link](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+ * NightCafe [Link](https://creator.nightcafe.studio/create-nft-art)
 
 ### 데이터 분석 도구 및 활용 사이트
 
