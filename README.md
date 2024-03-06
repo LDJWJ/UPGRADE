@@ -17,7 +17,7 @@
 
 ###  유용한 사이트 
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
- * Bing 이미지 생성 - [Link](https://www.bing.com/images/create)
+ * Bing 이미지 생성 - [Link](https://www.bing.com/images/create), Stable Diffusion - [Link](https://stability.ai/news/stable-diffusion-3)
  * Playground AI - 게임 에셋 제작 [Link](https://playgroundai.com/)
  * Craiyon [Link](https://www.craiyon.com/)
  * 무료 이미지 생성 - stability.ai [Link](https://stability.ai/blog/stable-diffusion-public-release)
@@ -25,6 +25,8 @@
  * Dream by Wombo [Link](https://dream.ai/create)
  * stability.ai demo [Link](https://huggingface.co/spaces/stabilityai/stable-diffusion)
  * NightCafe [Link](https://creator.nightcafe.studio/create-nft-art)
+ * SlideGo [Link](https://slidesgo.com/)
+ * ChatGPT [Link](https://chat.openai.com/) Gemini [Link](https://gemini.google.com/), Claude [Link](https://claude.ai/)
 
 ### 데이터 분석 도구 및 활용 사이트
 
