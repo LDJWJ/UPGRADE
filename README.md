@@ -6,6 +6,7 @@
   * Udacity Courses(https://www.udacity.com/courses/all) ****(좋음)
   * Udemy(https://www.udemy.com/) ***(무료/유료 강좌 사이트)
   * 이노베이션스퀘어 [Link](http://ictinnovation.kr/)
+  * 구름EDU(https://edu.goorm.io/)
 
 ### ChatGPT 관련
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
