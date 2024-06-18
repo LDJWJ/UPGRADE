@@ -12,6 +12,7 @@
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 ### Streamlit 관련
+  * streamlit Tutorial Doc [Link](https://docs.streamlit.io/develop/tutorials)
   * A Beginners Tutorial [Link](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)
 
 ### 좋은 책(개인 의견)
