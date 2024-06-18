@@ -11,6 +11,9 @@
 ### ChatGPT 관련
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
+### Streamlit 관련
+  * A Beginners Tutorial [Link](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)
+
 ### 좋은 책(개인 의견)
   * [*****] [머신러닝] 파이썬 라이브러리를 활용한 머신러닝 
   * [****] [딥러닝] 케라스 창시자에게 배우는 딥러닝
