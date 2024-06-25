@@ -32,6 +32,7 @@
  * NightCafe [Link](https://creator.nightcafe.studio/create-nft-art)
  * SlideGo [Link](https://slidesgo.com/)
  * ChatGPT [Link](https://chat.openai.com/) Gemini [Link](https://gemini.google.com/), Claude [Link](https://claude.ai/)
+ * 한국어 문장 읽기 소프트 [Link](https://ondoku3.com/ko/)
 
 ### 데이터 분석 도구 및 활용 사이트
 
