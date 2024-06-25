@@ -337,7 +337,7 @@ orange datamining [Link](https://orangedatamining.com/)
  * Holaworld 스터디, 사이드 프로젝트 팀원 모집 사이트 [Link](https://holaworld.io/)
  
 ### 인공지능 과정
- * 코드스테이트 부트캠프 [이동](https://www.codestates.com/course/ai?gclid=CjwKCAjwsfuYBhAZEiwA5a6CDAdHTYY4YqSb1w2ebvLTdXj5NCsFsSZ0J7ivxpITxo558_uVm0XnMxoCOygQAvD_BwE}
+ * 코드스테이트 부트캠프- 추천Star2개X.과정커리큘럼별3[이동](https://www.codestates.com/course/ai?gclid=CjwKCAjwsfuYBhAZEiwA5a6CDAdHTYY4YqSb1w2ebvLTdXj5NCsFsSZ0J7ivxpITxo558_uVm0XnMxoCOygQAvD_BwE)
  * 데이터 안심구역 분석 캠프 [이동](https://dsz.kdata.or.kr/component/bbs/notice/detail.do?articleId=BbsArticle6728cb4c5bbe4ec09c182429f82131f8)
  * 삼성 SSAFY : [이동](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 신청 : ~05/08, 교육기간 : 23/07~24/06
  
