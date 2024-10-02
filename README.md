@@ -31,16 +31,15 @@
 
 ### GEN AI 관련 사이트
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
- * Bing 이미지 생성 - [Link](https://www.bing.com/images/create)
  * Stable Diffusion - [Link](https://stability.ai/news/stable-diffusion-3)
  * Playground AI - 게임 에셋 제작 [Link](https://playgroundai.com/)
  * ChatGPT [Link](https://chat.openai.com/) Gemini [Link](https://gemini.google.com/), Claude [Link](https://claude.ai/)
  * 음악 AI(UDIO) - [Link](https://www.udio.com/)
+ * Dream Studio [Link]( )
+ * stability.ai demo [Link](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
 ###  유용한 사이트 
- * Dream Studio [Link]( )
  * Dream by Wombo [Link](https://dream.ai/create)
- * stability.ai demo [Link](https://huggingface.co/spaces/stabilityai/stable-diffusion)
  * NightCafe [Link](https://creator.nightcafe.studio/create-nft-art)
  * SlideGo [Link](https://slidesgo.com/)
 
