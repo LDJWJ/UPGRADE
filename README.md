@@ -21,12 +21,13 @@
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
 ### 이미지 생성 AI 사이트
- * Stable Diffusion Online [이동하기](https://stablediffusionweb.com/)
+ * Stable Diffusion Online [이동하기](https://stablediffusionweb.com/) - 하루 10장 무료
  * MS IMAGE CREATOR [이동하기](https://www.bing.com/images/create) - MS 사전 가입 및 로그인 필요
- * Stable Diffusion 2.1 Demo [이동하기](huggingface.co/spaces/stabilityai/stable-diffusion)
- * Adobe Firefly [이동하기](https://www.adobe.com/products/firefly/features/text-to-image.html)
- * Leonardo.AI [이동하기](https://app.leonardo.ai/image-generation)
+ * Stable Diffusion 2.1 Demo [이동하기](huggingface.co/spaces/stabilityai/stable-diffusion) - 무료, 품질이 상대적으로 낮음.
+ * Adobe Firefly [이동하기](https://www.adobe.com/products/firefly/features/text-to-image.html) - Adobe 제공. 무료로 매달 크레딧이 제공. 매달 초기화
+ * Leonardo.AI [이동하기](https://app.leonardo.ai/image-generation) - 
  * Craiyon(DALL-E mini) [이동하기](https://www.craiyon.com/)
+ * 미디저니, 드림스튜디오 - 현재 유료로 제공
 
 ### GEN AI 관련 사이트
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
