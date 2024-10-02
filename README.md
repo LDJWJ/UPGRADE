@@ -24,7 +24,7 @@
  * Stable Diffusion Online [이동하기](https://stablediffusionweb.com/)
  * MS IMAGE CREATOR [이동하기](https://www.bing.com/images/create) - MS 사전 가입 및 로그인 필요
  * Stable Diffusion 2.1 Demo [이동하기](huggingface.co/spaces/stabilityai/stable-diffusion)
-
+ * Adobe Firefly [이동하기](https://www.adobe.com/products/firefly/features/text-to-image.html)
 
 ### GEN AI 관련 사이트
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
