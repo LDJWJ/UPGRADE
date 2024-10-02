@@ -25,7 +25,8 @@
  * MS IMAGE CREATOR [이동하기](https://www.bing.com/images/create) - MS 사전 가입 및 로그인 필요
  * Stable Diffusion 2.1 Demo [이동하기](huggingface.co/spaces/stabilityai/stable-diffusion)
  * Adobe Firefly [이동하기](https://www.adobe.com/products/firefly/features/text-to-image.html)
-
+ * Leonardo.AI [이동하기](https://app.leonardo.ai/image-generation)
+ * 
 ### GEN AI 관련 사이트
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
  * Bing 이미지 생성 - [Link](https://www.bing.com/images/create)
