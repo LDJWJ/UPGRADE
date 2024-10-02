@@ -20,6 +20,12 @@
   * [****] [딥러닝] 케라스 창시자에게 배우는 딥러닝
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
+### 이미지 생성 AI 사이트
+ * Stable Diffusion Online [이동하기](https://stablediffusionweb.com/)
+ * MS IMAGE CREATOR [이동하기](https://www.bing.com/images/create) - MS 사전 가입 및 로그인 필요
+ * Stable Diffusion 2.1 Demo [이동하기](huggingface.co/spaces/stabilityai/stable-diffusion)
+
+
 ### GEN AI 관련 사이트
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
  * Bing 이미지 생성 - [Link](https://www.bing.com/images/create)
