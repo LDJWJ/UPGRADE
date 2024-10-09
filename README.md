@@ -8,8 +8,15 @@
   * 이노베이션스퀘어 [Link](http://ictinnovation.kr/)
   * 구름EDU(https://edu.goorm.io/)
 
-### ChatGPT 관련
+### ChatGPT 관련, OpenAI 관련
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+  * Reasoning Models 빠른 시작 o1-preview, o1-mini [Link](https://platform.openai.com/docs/guides/reasoning)
+  * OpenAI models [Link](https://platform.openai.com/docs/models)
+  * API Sample [Link](https://platform.openai.com/docs/quickstart)
+     * Chat Completiions, Image Generation, Embeddings, Text-to-speech, Speech-to-text, Moderation, Fine-tuning, Batch, Full API Reference
+  * API Pricing [Link](https://openai.com/api/pricing/)
+
+
 
 ### Streamlit 관련
   * streamlit Tutorial Doc [Link](https://docs.streamlit.io/develop/tutorials)
