@@ -35,7 +35,8 @@
  * Leonardo.AI [이동하기](https://app.leonardo.ai/image-generation) - 
  * Craiyon(DALL-E mini) [이동하기](https://www.craiyon.com/)
  * 미디저니, 드림스튜디오 - 현재 유료로 제공
-
+ * stability.ai demo [Link](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+ * 
 ### GEN AI 관련 사이트
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
  * Stable Diffusion - [Link](https://stability.ai/news/stable-diffusion-3)
@@ -43,9 +44,6 @@
  * ChatGPT [Link](https://chat.openai.com/) Gemini [Link](https://gemini.google.com/), Claude [Link](https://claude.ai/)
  * 음악 AI(UDIO) - [Link](https://www.udio.com/)
  * Dream Studio [Link]( )
- * stability.ai demo [Link](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-
-### 멀티모달
  * 클로바 더빙 [Link](https://clovadubbing.naver.com/)
  * Viodio     [Link](https://www.viodio.io/main)
 
