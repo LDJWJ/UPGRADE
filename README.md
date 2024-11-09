@@ -46,6 +46,7 @@
  * Dream Studio [Link]( )
  * 클로바 더빙 [Link](https://clovadubbing.naver.com/)
  * Viodio     [Link](https://www.viodio.io/main)
+ * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
 
 ###  유용한 사이트 
  * Dream by Wombo [Link](https://dream.ai/create)
