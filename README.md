@@ -17,6 +17,9 @@
   * API Pricing [Link](https://openai.com/api/pricing/)
 
 
+### AI 논문 관련 사이트
+  * paperswithcode [Link](https://paperswithcode.com/methods)
+  * 학회에 발표되지 않는 완전 최신 논문 사이트 arxiv [Link](https://arxiv-sanity-lite.com/)
 
 ### Streamlit 관련
   * streamlit Tutorial Doc [Link](https://docs.streamlit.io/develop/tutorials)
