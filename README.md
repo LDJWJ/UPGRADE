@@ -51,6 +51,13 @@
  * Viodio     [Link](https://www.viodio.io/main)
  * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
 
+### 디자인과 AI
+ * [기업 적용 사례] 11번가 실제 광고 디자인에 미드저니 AI를 활용하는 방법 [유튜브](https://www.youtube.com/watch?v=vx-pgkYgqkY)
+ * [기업 적용 사례] 롯데백화점은 왜 모든 것을 AI로 바꾸고 있을까? [유튜브](https://www.youtube.com/watch?v=f-yntvJXDmc)
+ * Andrej Karpathy
+ * Visily AI
+ * 
+
 ###  유용한 사이트 
  * Dream by Wombo [Link](https://dream.ai/create)
  * NightCafe [Link](https://creator.nightcafe.studio/create-nft-art)
