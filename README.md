@@ -19,14 +19,27 @@
 ### 공모전
 * Thinkgood - https://www.thinkcontest.com/thinkgood/index.do
 * Contest Korea - https://www.contestkorea.com/?int_gbn=1
-* 
+* Event-us - https://event-us.kr/
 
 | 구분 | 기간 | 특징 | 링크 |
 | --- | --- | --- | --- |
 | 😄 2024 디지털유산페스타 'AI 헤리티지 공모전  | 4월 1일 ~ 5월 3일 | AI를 활용한 이미지 생성 부문이 있어, Stable Diffusion, DALL-E 등 이미지 생성 모델 학습 내용을 활용할 수 있습니다. <br> 학습한 Prompt Engineering 지식을 직접 활용할 좋은 기회입니다.| [Link](https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=030710001&str_no=202404130008) |
 | 🔍 AI SPARK 챌린지 | 2/28 ~ 3/25(접수) <br> 3/8~3/25 | 과학기술정보통신부 | [Link](https://aifactory.space/task/2723/overview) |
 | 🔍 강서구 빅데이터 분석 아이디어 공모전 | 24.3.4 ~ 4.12 | 공공 데이터 활용한 강서구민 불편사항 해결하기. | [Link](https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202403050037) |
-| 🔍 생성형 AI 활용대전 | 24.8.7 ~ 8.23 | edtech 어워즈 | [Link](https://edtechkorea.or.kr/fairContents.do?FAIRMENU_IDX=20419&hl=KOR)) |
+| 🔍 생성형 인공지능 전국 경진대회 | 24.4.5 ~ 4.24(접수) <br> 4.29~5.8(공개검증) <br> 5.11 -시상식 | 충청북도 | [Link](https://chungbukdata.co.kr/service) |
+| 🔍 루이스 AI 스토리 공모전 | 24.4.29 ~ 6.23 | LEWIS, 8가지 추천 테마중 하나를 선택하여 장르, 컨셉, 소재에 대한 제한 없이 나만의 스토리를 생성. | [Link](https://lewis.keytalkai.com/ko/competition) |
+| 🔍 인공지능(AI)의 안전성, 신뢰, 윤리 정책아이디어 공모전 | 24.6.12 ~ 7.5(접수) <br> 7.26(금) 결과 발표 | 인공지능(AI)의  안전성, 신뢰, 윤리 정책아이디어  공모전 | [Link](https://survey.beingdigital.kr/competition/competition.php?boardid=competition&mode=view&idx=2&sk=&sw=&offset=&category=) |
+| 🔍 AI 인공지능 활용 아이디어 공모전 | 24.6.10 ~ 8.11(접수) <br> 8.30(금) 최종 발표, 9월중 시상식 | 전국 대학(원)생, AI 기술을 활용한 사회 서비스 및 산업 분야 아이디어 및 솔루션 제시 | [Link](https://edu.ggumeasy.com/?pn=product.view&pcode=C2727-J8148-X6415) |
+| 🔍 생성형 AI 활용대전 | 24.8.7 ~ 8.23 | edtech 어워즈 | [Link](https://edtechkorea.or.kr/fairContents.do?FAIRMENU_IDX=20419&hl=KOR) |
+| 🔍 생성형 AI 크리에이티브 공모전 | 24.8.12 ~ 9.2(접수), 작품발표(9/6), 개막식(10/1), 10/1~12.31- 전시 운영 | 아트밸리 아산, 전국민 누구나  | [Link](https://linkareer.com/activity/197159) |
+| 🔍 DPG AI Challenge 경진대회 | 24.8.21 ~ 9.4 | 디지털플랫폼정부위원회, AI 개발지원 도구 등을 활용해 사회 현안 해결 및 공공 혁신 등을 위한 AI 서비스 개발  | [Link](https://linkareer.com/activity/197020) |
+| 🔍 AI로 만드는 미래고속도로 공모전 | 24.8.19 ~ 9.18, 결과발표(10/10) | AI로 자유롭게 상상하는 고속도로와 휴게시설의 미래상  | [Link](https://www.ex-ai.co.kr/guidelines) |
+| 🔍 2024 제1회 국방 AI 아이디어톤 | 24.8.8 ~ 10.7 | 2024 제1회 국방 AI 아이디어톤 <br> AI 기술 활용을 통한 미래 국방분야 발전방향  | [Link](https://event-us.kr/kossa/event/89685) |
+| 🔍 2024 글로벌 콘텐츠 페스티벌 in 순천 | 24.9.9 ~ 10.9 | AI 기술을 전체 혹은 부분적으로 활용한 영상. 30초~90초 이내로 AI기술 활용하여 창작한 영상.  | [Link](https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=6&ix=91690) |
+| 🔍 AI SPARKS 창업 아이디어 공모전  | 24.9.10 ~ 10.25 | 디지털플랫폼정부위원회, 인공지능(AI)을 활용하여 일상 속의 문제를 해결할 수 있는 혁신적인 창업 아이디어  | [Link]https://m.post.naver.com/viewer/postView.naver?volumeNo=39249007&memberNo=21527483&navigationType=push) |
+| 🔍 AI, ICT의 미래를 그려줘  | 24.10.14 ~ 11.8 | 과학기술정보통신부,  ICT를 통해 발전할 대한민국의 미래 모습 | [Link](https://ictrndweek.kr/p5/c1/?no=2) |
+| 🔍 광주 AI디자인 공모전 | 24.10.21 ~ 10.31 | 상상이 현실이 되는 『AI×문화중심도시 광주』| [Link](https://www.wevity.com/index_university.php?c=find&s=_university&gub=1&cidx=19&gbn=viewok&gp=2&ix=91368) |
+| 🔍 AI CONTENTS CHALLENGE | 24.12.16 ~ 25.01.10 | 아모레 퍼시픽,  AI 콘텐츠 제작에 관심이 있는 누구나 | [Link](https://linkareer.com/activity/214506) |
 
 ### 빅데이터 & AI 대회
 * 23.05.01 ~ 07.10(23년도) 공공데이터 활용 대회(아이디어, 빅데이터분석) [이동](https://datacontest.kr/apply/applyAdd/3) 
