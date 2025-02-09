@@ -154,6 +154,17 @@ orange datamining [Link](https://orangedatamining.com/)
   * https://www.latlong.net/
   * https://www.geoplaner.com/
 
+### 공모전
+* Thinkgood - https://www.thinkcontest.com/thinkgood/index.do
+* Contest Korea - https://www.contestkorea.com/?int_gbn=1
+* 
+
+| 구분 | 기간 | 특징 | 링크 |
+| --- | --- | --- | --- |
+| 😄 2024 디지털유산페스타 'AI 헤리티지 공모전  | 4월 1일 ~ 5월 3일 | AI를 활용한 이미지 생성 부문이 있어, Stable Diffusion, DALL-E 등 이미지 생성 모델 학습 내용을 활용할 수 있습니다. <br> 학습한 Prompt Engineering 지식을 직접 활용할 좋은 기회입니다.| [Link](https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=030710001&str_no=202404130008) |
+| 🔍 강서구 빅데이터 분석 아이디어 공모전 | 24.3.4 ~ 4.12 | 공공 데이터 활용한 강서구민 불편사항 해결하기. | [Link](https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202403050037) |
+
+
 ### 빅데이터 & AI 대회
 * 23.05.01 ~ 07.10(23년도) 공공데이터 활용 대회(아이디어, 빅데이터분석) [이동](https://datacontest.kr/apply/applyAdd/3) 
 * 23.05.08 ~ 23.06.09(23년도) 날씨빅데이터콘테스트[이동](bd.kma.go.kr/contest) - 일반국민누구나
