@@ -16,6 +16,39 @@
      * Chat Completiions, Image Generation, Embeddings, Text-to-speech, Speech-to-text, Moderation, Fine-tuning, Batch, Full API Reference
   * API Pricing [Link](https://openai.com/api/pricing/)
 
+### 공모전
+* Thinkgood - https://www.thinkcontest.com/thinkgood/index.do
+* Contest Korea - https://www.contestkorea.com/?int_gbn=1
+* 
+
+| 구분 | 기간 | 특징 | 링크 |
+| --- | --- | --- | --- |
+| 😄 2024 디지털유산페스타 'AI 헤리티지 공모전  | 4월 1일 ~ 5월 3일 | AI를 활용한 이미지 생성 부문이 있어, Stable Diffusion, DALL-E 등 이미지 생성 모델 학습 내용을 활용할 수 있습니다. <br> 학습한 Prompt Engineering 지식을 직접 활용할 좋은 기회입니다.| [Link](https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=030710001&str_no=202404130008) |
+| 🔍 AI SPARK 챌린지 | 2/28 ~ 3/25(접수) <br> 3/8~3/25 | 과학기술정보통신부 | [Link](https://aifactory.space/task/2723/overview) |
+| 🔍 강서구 빅데이터 분석 아이디어 공모전 | 24.3.4 ~ 4.12 | 공공 데이터 활용한 강서구민 불편사항 해결하기. | [Link](https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202403050037) |
+| 🔍 생성형 AI 활용대전 | 24.8.7 ~ 8.23 | edtech 어워즈 | [Link](https://edtechkorea.or.kr/fairContents.do?FAIRMENU_IDX=20419&hl=KOR)) |
+
+### 빅데이터 & AI 대회
+* 23.05.01 ~ 07.10(23년도) 공공데이터 활용 대회(아이디어, 빅데이터분석) [이동](https://datacontest.kr/apply/applyAdd/3) 
+* 23.05.08 ~ 23.06.09(23년도) 날씨빅데이터콘테스트[이동](bd.kma.go.kr/contest) - 일반국민누구나
+* 23.04.17 ~ 23.06.16(23년도) 영천시 공공 데이터 활용 경진대회
+* 23.04.17 ~ 23.05.31(23년도) 성남시 공공데이터 활용/분석 아이디어 공모전 [Link](https://www.all-con.co.kr/view/contest/495704?page=38&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
+* 23.04.13 ~ 23.05.31(23년도) 충남올담 데이터 시각화 경진대회 [Link](https://www.all-con.co.kr/view/contest/495571?page=42&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
+* 23.04.17 ~ 23.06.02(23년도) 창업 및 서비스 아이디어 경진대회 [Link](https://www.mogefdatacontest.co.kr/notice_detail.jsp?idx=8)
+* 23.04.21 ~ 23.06.28(23년도) 국토교통 데이터 활용 경진대회 [Link](https://www.bigdata-transportation.kr/)
+* 23.04.24 ~ 23.06.04(23년도) 환경부 - 데이터 분석 경진대회 [Link](https://www.all-con.co.kr/view/contest/496096?page=22&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
+* 23.04.10 ~ 23.07.02(23년도) 교육 - 공공데이터 분석활용대회 [Link](https://www.all-con.co.kr/view/contest/495458?page=47&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
+* 23.05.08 ~ 23.06.09(23년도) GenAI.공공데이터창업경진대회 [Link](https://www.all-con.co.kr/view/contest/496472?page=1&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
+* 23.05.01 ~ 23.06.16(23년도) 전주시 데이터 분석 공모전 [Link](https://www.all-con.co.kr/view/contest/496452?page=3&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
+* 23.04.17 ~ 23.06.23(23년도) 경상남도 공공데이터 활용 아이디어 공모전 [Link](https://www.all-con.co.kr/view/contest/496194?page=18&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
+* 
+* 06/15~06/28(22년도) - [문화.관광빅데이터 분석 대회](http://www.tourbigdata.kr/introduce.asp) - 국내 대학 및 대학원생
+* 06/22~07/31(22년도) [문화데이터 경진대회-문체부](https://www.culture.go.kr/data/contest/main.do) -문화데이터에 관심있는 대한민국 국민 누구나
+* 08/30~11/07(22년도) [빅콘테스트] (https://www.bigcontest.or.kr/) 
+* 22/0919 ~ 22/1102 [서울시 빅데이터 캠퍼스](https://bigdata.seoul.go.kr/cntst/selectPageListCntst.do?r_id=P600) 
+* WIDER FACE AND PERSON CHALLENGE [2019년](https://wider-challenge.org/2019.html) [2018년](https://wider-challenge.org/2018.html)
+* [서명관련 www.signwell.com](https://www.signwell.com/online-signature/draw/)
+* [네이버 AI 해커톤] (https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)
 
 ### AI 논문 관련 사이트
   * paperswithcode [Link](https://paperswithcode.com/methods)
@@ -154,38 +187,7 @@ orange datamining [Link](https://orangedatamining.com/)
   * https://www.latlong.net/
   * https://www.geoplaner.com/
 
-### 공모전
-* Thinkgood - https://www.thinkcontest.com/thinkgood/index.do
-* Contest Korea - https://www.contestkorea.com/?int_gbn=1
-* 
 
-| 구분 | 기간 | 특징 | 링크 |
-| --- | --- | --- | --- |
-| 😄 2024 디지털유산페스타 'AI 헤리티지 공모전  | 4월 1일 ~ 5월 3일 | AI를 활용한 이미지 생성 부문이 있어, Stable Diffusion, DALL-E 등 이미지 생성 모델 학습 내용을 활용할 수 있습니다. <br> 학습한 Prompt Engineering 지식을 직접 활용할 좋은 기회입니다.| [Link](https://www.contestkorea.com/sub/view.php?Txt_gbn=1&Txt_bcode=030710001&str_no=202404130008) |
-| 🔍 강서구 빅데이터 분석 아이디어 공모전 | 24.3.4 ~ 4.12 | 공공 데이터 활용한 강서구민 불편사항 해결하기. | [Link](https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202403050037) |
-
-
-### 빅데이터 & AI 대회
-* 23.05.01 ~ 07.10(23년도) 공공데이터 활용 대회(아이디어, 빅데이터분석) [이동](https://datacontest.kr/apply/applyAdd/3) 
-* 23.05.08 ~ 23.06.09(23년도) 날씨빅데이터콘테스트[이동](bd.kma.go.kr/contest) - 일반국민누구나
-* 23.04.17 ~ 23.06.16(23년도) 영천시 공공 데이터 활용 경진대회
-* 23.04.17 ~ 23.05.31(23년도) 성남시 공공데이터 활용/분석 아이디어 공모전 [Link](https://www.all-con.co.kr/view/contest/495704?page=38&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.04.13 ~ 23.05.31(23년도) 충남올담 데이터 시각화 경진대회 [Link](https://www.all-con.co.kr/view/contest/495571?page=42&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.04.17 ~ 23.06.02(23년도) 창업 및 서비스 아이디어 경진대회 [Link](https://www.mogefdatacontest.co.kr/notice_detail.jsp?idx=8)
-* 23.04.21 ~ 23.06.28(23년도) 국토교통 데이터 활용 경진대회 [Link](https://www.bigdata-transportation.kr/)
-* 23.04.24 ~ 23.06.04(23년도) 환경부 - 데이터 분석 경진대회 [Link](https://www.all-con.co.kr/view/contest/496096?page=22&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.04.10 ~ 23.07.02(23년도) 교육 - 공공데이터 분석활용대회 [Link](https://www.all-con.co.kr/view/contest/495458?page=47&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.05.08 ~ 23.06.09(23년도) GenAI.공공데이터창업경진대회 [Link](https://www.all-con.co.kr/view/contest/496472?page=1&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.05.01 ~ 23.06.16(23년도) 전주시 데이터 분석 공모전 [Link](https://www.all-con.co.kr/view/contest/496452?page=3&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.04.17 ~ 23.06.23(23년도) 경상남도 공공데이터 활용 아이디어 공모전 [Link](https://www.all-con.co.kr/view/contest/496194?page=18&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 
-* 06/15~06/28(22년도) - [문화.관광빅데이터 분석 대회](http://www.tourbigdata.kr/introduce.asp) - 국내 대학 및 대학원생
-* 06/22~07/31(22년도) [문화데이터 경진대회-문체부](https://www.culture.go.kr/data/contest/main.do) -문화데이터에 관심있는 대한민국 국민 누구나
-* 08/30~11/07(22년도) [빅콘테스트] (https://www.bigcontest.or.kr/) 
-* 22/0919 ~ 22/1102 [서울시 빅데이터 캠퍼스](https://bigdata.seoul.go.kr/cntst/selectPageListCntst.do?r_id=P600) 
-* WIDER FACE AND PERSON CHALLENGE [2019년](https://wider-challenge.org/2019.html) [2018년](https://wider-challenge.org/2018.html)
-* [서명관련 www.signwell.com](https://www.signwell.com/online-signature/draw/)
-* [네이버 AI 해커톤] (https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)
 
 ### github 마크 다운 관련 사이트 
   * md 파일 preview - dillinger [이동](https://dillinger.io/) - MEMO : 이모티콘은 안보임.
