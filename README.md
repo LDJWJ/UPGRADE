@@ -16,6 +16,50 @@
      * Chat Completiions, Image Generation, Embeddings, Text-to-speech, Speech-to-text, Moderation, Fine-tuning, Batch, Full API Reference
   * API Pricing [Link](https://openai.com/api/pricing/)
 
+
+### GEN AI 관련 사이트
+| 구분 | 이름 | 특징 | 링크 | 비고 |
+| --- | --- | --- | --- |--- |
+| 생성 AI 챗봇  | ChatGPT | OpenAI | https://chat.openai.com/ | 무료, $20/월, Pro $200/월 |
+| 생성 AI 챗봇  | Claude | Anthropic  | https://claude.ai/ | 무료, $20/월 |
+| 생성 AI 챗봇  | Grok | X  | https://grok.com/ | X를 이용하여 가입 무료, $30/월, Pro  $300/월 |
+| 생성 AI 챗봇  | Gemini | 글쓰기, 출처 | https://gemini.google.com/ | 무료 및 기타 |
+| 검색,채팅,이미지생성  | Genspark | 다목적 AI 비서 | https://www.genspark.ai/ | 무료, $19.99/월 |
+| 챗봇 생성 AI  | perplexity | 검색 기능 최적화(출처,  | https://www.perplexity.ai/ | 무료, $19.99/월 |
+| 챗봇 생성 AI  | wrtn | 글쓰기, 출처 | https://wrtn.ai/ | 무료 및 기타 |
+| 챗봇 생성 AI  | 윅스AI | 한국형 업무 AI | https://wrks.ai/ko/chat | 무료, Basic(24,900), AGI(월 99,900) |
+| 챗봇 생성 AI  | Felo | 파일분석, PPT생성, 주제당50개 파일 업로드 | https://felo.ai/ | 무료 및 월$14.99 |
+| 챗봇 생성 AI  | Alan | 출처, 유튜브 요약 우수 | https://wrtn.ai/ | 무료 및 기타 |
+| 영상요약 AI  | Lilys AI | 영상, 음성, PDF, 웹사이트 요약 | https://lilys.ai/ | 무료 및 기타 |
+| 회의록 작성, 보고서 시각화  | Napkin AI | 회의록 작성, 보고서 시각화, 도식화 자동 생성 | https://www.napkin.ai/ | -- |
+| 강의 자료 분석  | Notebook LM | 문서 기반 데이터 분석 및 정보 추출. | https://www.napkin.ai/ | -- |
+
+
+### 이미지/비디오 생성 AI 사이트
+| 구분 | 이름 | 특징 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- |
+| 이미지 생성 AI | Stable Diffusion Online | --- | https://stablediffusionweb.com/ko |--- |
+| 이미지 생성 AI  | MS IMAGE CREATOR | 다목적 AI 비서 | https://www.bing.com/images/create | MS 사전 가입 및 로그인 필요 |
+| 이미지 생성 AI  | Stable Diffusion 2.1 Demo | 검색 기능 최적화(출처,  | https://huggingface.co/spaces/stabilityai/stable-diffusion | 무료, 품질이 상대적으로 낮음. 스테이블 디퓨전 2.1 |
+| 이미지 생성 AI  | Adobe Firefly  | -- | https://firefly.adobe.com/   |Adobe사에서 만든 AI |
+| 이미지 생성 AI  | Leonardo.AI  | -- | https://firefly.adobe.com/   | -- |
+| AI 아바타 생성 AI  | Synthesia  | AI 아바타를 활용한 스튜디오급 품질의 비디오 제작 | https://www.synthesia.io/   | -- |
+| 비디오 생성 AI  | runway  | 애니메이션이 포함된 비디오 제작에 적합 | https://runwayml.com/  | free Forever |
+| 비디오 생성 AI  | sora| OpenAI 에서 만든 Gen AI | https://openai.com/sora/  | -- |
+| 비디오 생성 AI  | InVideo AI | 매력적인 마케팅 비디오 제작에 적합 | https://www.genspark.ai/  | free Forever, 플러스: 월 $20, 최대: 48/월 |
+| 비디오 생성 AI  | Genspark | 비디오, 이미지 생성 | https://www.genspark.ai/  | 무료로 많은 기능 제공, 마인트맵  |
+| 비디오 생성 AI  | AI Studios by Deepbrain AI  | 사람처럼 보이고 행동하는 AI 아바타 만들기, AI 휴먼과 원활하고 매력적인 대화 가능, 뉴스 등 | https://www.aistudios.com/ko | -- |
+| 비디오 생성 AI  | Colossyan   | 기업 교육용 비디오 제작에 특화. AI 아바타로 교육 콘텐츠, 프레젠테이션 비디오 제작. | https://www.colossyan.com/ | 음성을 녹음 후, 이에 대한 영상 생성 |
+
+ * 미디저니, 드림스튜디오 - 현재 유료로 제공
+ * Craiyon(DALL-E mini) [이동하기](https://www.craiyon.com/)
+ * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
+ * Playground AI - 게임 에셋 제작 [Link](https://playgroundai.com/)
+ * 음악 AI(UDIO) - [Link](https://www.udio.com/)
+ * 클로바 더빙 [Link](https://clovadubbing.naver.com/)
+ * Viodio     [Link](https://www.viodio.io/main)
+ * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
+
 ### 공모전
 * Thinkgood - https://www.thinkcontest.com/thinkgood/index.do
 * Contest Korea - https://www.contestkorea.com/?int_gbn=1
@@ -80,48 +124,7 @@
   * [****] [딥러닝] 케라스 창시자에게 배우는 딥러닝
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
-### GEN AI 관련 사이트
-| 구분 | 이름 | 특징 | 링크 | 비고 |
-| --- | --- | --- | --- |--- |
-| 생성 AI 챗봇  | ChatGPT | OpenAI | https://chat.openai.com/ | 무료, $20/월, Pro $200/월 |
-| 생성 AI 챗봇  | Claude | Anthropic  | https://claude.ai/ | 무료, $20/월 |
-| 생성 AI 챗봇  | Grok | X  | https://grok.com/ | X를 이용하여 가입 무료, $30/월, Pro  $300/월 |
-| 생성 AI 챗봇  | Gemini | 글쓰기, 출처 | https://gemini.google.com/ | 무료 및 기타 |
-| 검색,채팅,이미지생성  | Genspark | 다목적 AI 비서 | https://www.genspark.ai/ | 무료, $19.99/월 |
-| 챗봇 생성 AI  | perplexity | 검색 기능 최적화(출처,  | https://www.perplexity.ai/ | 무료, $19.99/월 |
-| 챗봇 생성 AI  | wrtn | 글쓰기, 출처 | https://wrtn.ai/ | 무료 및 기타 |
-| 챗봇 생성 AI  | 윅스AI | 한국형 업무 AI | https://wrks.ai/ko/chat | 무료, Basic(24,900), AGI(월 99,900) |
-| 챗봇 생성 AI  | Felo | 파일분석, PPT생성, 주제당50개 파일 업로드 | https://felo.ai/ | 무료 및 월$14.99 |
-| 챗봇 생성 AI  | Alan | 출처, 유튜브 요약 우수 | https://wrtn.ai/ | 무료 및 기타 |
-| 영상요약 AI  | Lilys AI | 영상, 음성, PDF, 웹사이트 요약 | https://lilys.ai/ | 무료 및 기타 |
-| 회의록 작성, 보고서 시각화  | Napkin AI | 회의록 작성, 보고서 시각화, 도식화 자동 생성 | https://www.napkin.ai/ | -- |
-| 강의 자료 분석  | Notebook LM | 문서 기반 데이터 분석 및 정보 추출. | https://www.napkin.ai/ | -- |
 
-
-### 이미지/비디오 생성 AI 사이트
-| 구분 | 이름 | 특징 | 링크 | 비고 | 
-| --- | --- | --- | --- | --- |
-| 이미지 생성 AI | Stable Diffusion Online | --- | https://stablediffusionweb.com/ko |--- |
-| 이미지 생성 AI  | MS IMAGE CREATOR | 다목적 AI 비서 | https://www.bing.com/images/create | MS 사전 가입 및 로그인 필요 |
-| 이미지 생성 AI  | Stable Diffusion 2.1 Demo | 검색 기능 최적화(출처,  | https://huggingface.co/spaces/stabilityai/stable-diffusion | 무료, 품질이 상대적으로 낮음. 스테이블 디퓨전 2.1 |
-| 이미지 생성 AI  | Adobe Firefly  | -- | https://firefly.adobe.com/   |Adobe사에서 만든 AI |
-| 이미지 생성 AI  | Leonardo.AI  | -- | https://firefly.adobe.com/   | -- |
-| AI 아바타 생성 AI  | Synthesia  | AI 아바타를 활용한 스튜디오급 품질의 비디오 제작 | https://www.synthesia.io/   | -- |
-| 비디오 생성 AI  | runway  | 애니메이션이 포함된 비디오 제작에 적합 | https://runwayml.com/  | free Forever |
-| 비디오 생성 AI  | sora| OpenAI 에서 만든 Gen AI | https://openai.com/sora/  | -- |
-| 비디오 생성 AI  | InVideo AI | 매력적인 마케팅 비디오 제작에 적합 | https://www.genspark.ai/  | free Forever, 플러스: 월 $20, 최대: 48/월 |
-| 비디오 생성 AI  | Genspark | 비디오, 이미지 생성 | https://www.genspark.ai/  | 무료로 많은 기능 제공, 마인트맵  |
-| 비디오 생성 AI  | AI Studios by Deepbrain AI  | 사람처럼 보이고 행동하는 AI 아바타 만들기, AI 휴먼과 원활하고 매력적인 대화 가능, 뉴스 등 | https://www.aistudios.com/ko | -- |
-| 비디오 생성 AI  | Colossyan   | 기업 교육용 비디오 제작에 특화. AI 아바타로 교육 콘텐츠, 프레젠테이션 비디오 제작. | https://www.colossyan.com/ | 음성을 녹음 후, 이에 대한 영상 생성 |
-
- * 미디저니, 드림스튜디오 - 현재 유료로 제공
- * Craiyon(DALL-E mini) [이동하기](https://www.craiyon.com/)
- * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
- * Playground AI - 게임 에셋 제작 [Link](https://playgroundai.com/)
- * 음악 AI(UDIO) - [Link](https://www.udio.com/)
- * 클로바 더빙 [Link](https://clovadubbing.naver.com/)
- * Viodio     [Link](https://www.viodio.io/main)
- * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
 
 ### 디자인과 AI
  * [기업 적용 사례] 11번가 실제 광고 디자인에 미드저니 AI를 활용하는 방법 [유튜브](https://www.youtube.com/watch?v=vx-pgkYgqkY)
