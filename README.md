@@ -42,7 +42,7 @@
 | 이미지 생성 AI  | MS IMAGE CREATOR | 다목적 AI 비서 | https://www.bing.com/images/create | MS 사전 가입 및 로그인 필요 |
 | 이미지 생성 AI  | Stable Diffusion 2.1 Demo | 검색 기능 최적화(출처,  | https://huggingface.co/spaces/stabilityai/stable-diffusion | 무료, 품질이 상대적으로 낮음. 스테이블 디퓨전 2.1 |
 | 이미지 생성 AI  | Adobe Firefly  | -- | https://firefly.adobe.com/   |Adobe사에서 만든 AI |
-| 이미지 생성 AI  | Leonardo.AI  | -- | https://firefly.adobe.com/   | -- |
+| 이미지 생성 AI  | Leonardo.AI  | -- | https://leonardo.ai/   | -- |
 | AI 아바타 생성 AI  | Synthesia  | AI 아바타를 활용한 스튜디오급 품질의 비디오 제작 | https://www.synthesia.io/   | -- |
 | 비디오 생성 AI  | runway  | 애니메이션이 포함된 비디오 제작에 적합 | https://runwayml.com/  | free Forever |
 | 비디오 생성 AI  | sora| OpenAI 에서 만든 Gen AI | https://openai.com/sora/  | -- |
