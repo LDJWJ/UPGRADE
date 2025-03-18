@@ -99,7 +99,7 @@
 
 
 ### 이미지/비디오 생성 AI 사이트
-| 구분 | 이름 | 특징 | 링크 | 비고 |
+| 구분 | 이름 | 특징 | 링크 | 비고 | 
 | 이미지 생성 AI | Stable Diffusion Online | --- | https://stablediffusionweb.com/ko |--- |
 | 이미지 생성 AI  | MS IMAGE CREATOR | 다목적 AI 비서 | https://www.bing.com/images/create | MS 사전 가입 및 로그인 필요 |
 | 이미지 생성 AI  | Stable Diffusion 2.1 Demo | 검색 기능 최적화(출처,  | https://huggingface.co/spaces/stabilityai/stable-diffusion | 무료, 품질이 상대적으로 낮음. 스테이블 디퓨전 2.1 |
