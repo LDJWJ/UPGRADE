@@ -1,4 +1,4 @@
-### UPGRADE
+![image](https://github.com/user-attachments/assets/956277db-08b6-460d-b1a7-1d451bdc22ea)![image](https://github.com/user-attachments/assets/e18030d9-85af-457e-8feb-969813f39937)![image](https://github.com/user-attachments/assets/d178065d-3cfa-48bf-8251-a13025beff6e)![image](https://github.com/user-attachments/assets/5e734240-8618-4052-950d-ecb0910c76b7)![image](https://github.com/user-attachments/assets/8ec81043-7ceb-475e-9708-53fc5dc83aa1)### UPGRADE
 
 ### 관련 강의 사이트
   * 네이버 edwith(https://www.edwith.org/search/index) ****(좋음)
@@ -80,21 +80,13 @@
   * [****] [딥러닝] 케라스 창시자에게 배우는 딥러닝
   * [****] [딥러닝] 밑바닥부터 시작하는 딥러닝 - python으로 시작하는 딥러닝
 
-### 이미지 생성 AI 사이트
-
-
- * Stable Diffusion Online [이동하기](https://stablediffusionweb.com/) - 하루 10장 무료
- * MS IMAGE CREATOR [이동하기](https://www.bing.com/images/create) - MS 사전 가입 및 로그인 필요
- * Stable Diffusion 2.1 Demo [이동하기](https://huggingface.co/spaces/stabilityai/stable-diffusion) - 무료, 품질이 상대적으로 낮음. 스테이블 디퓨전 2.1
- * Adobe Firefly [이동하기](https://www.adobe.com/products/firefly/features/text-to-image.html) - Adobe 제공. 무료로 매달 크레딧이 제공. 매달 초기화
- * Leonardo.AI [이동하기](https://app.leonardo.ai/image-generation) - 
- * Craiyon(DALL-E mini) [이동하기](https://www.craiyon.com/)
- * 미디저니, 드림스튜디오 - 현재 유료로 제공
- * stability.ai demo [Link](https://huggingface.co/spaces/stabilityai/stable-diffusion)
- * 
 ### GEN AI 관련 사이트
 | 구분 | 이름 | 특징 | 링크 | 비고 |
 | --- | --- | --- | --- |--- |
+| 생성 AI 챗봇  | ChatGPT | OpenAI | https://chat.openai.com/ | 무료, $20/월, Pro $200/월 |
+| 생성 AI 챗봇  | Claude | Anthropic  | https://claude.ai/ | 무료, $20/월 |
+| 생성 AI 챗봇  | Grok | X  | https://grok.com/ | X를 이용하여 가입 무료, $30/월, Pro  $300/월 |
+| 생성 AI 챗봇  | Gemini | 글쓰기, 출처 | https://gemini.google.com/ | 무료 및 기타 |
 | 검색,채팅,이미지생성  | Genspark | 다목적 AI 비서 | https://www.genspark.ai/ | 무료, $19.99/월 |
 | 챗봇 생성 AI  | perplexity | 검색 기능 최적화(출처,  | https://www.perplexity.ai/ | 무료, $19.99/월 |
 | 챗봇 생성 AI  | wrtn | 글쓰기, 출처 | https://wrtn.ai/ | 무료 및 기타 |
@@ -106,14 +98,19 @@
 | 강의 자료 분석  | Notebook LM | 문서 기반 데이터 분석 및 정보 추출. | https://www.napkin.ai/ | -- |
 
 
+### 이미지/비디오 생성 AI 사이트
+| 구분 | 이름 | 특징 | 링크 | 비고 |
+| 이미지 생성 AI | Stable Diffusion Online | --- | https://stablediffusionweb.com/ko |--- |
+| 이미지 생성 AI  | MS IMAGE CREATOR | 다목적 AI 비서 | https://www.bing.com/images/create | MS 사전 가입 및 로그인 필요 |
+| 이미지 생성 AI  | Stable Diffusion 2.1 Demo | 검색 기능 최적화(출처,  | https://huggingface.co/spaces/stabilityai/stable-diffusion | 무료, 품질이 상대적으로 낮음. 스테이블 디퓨전 2.1 |
+| 이미지 생성 AI  | Adobe Firefly  | -- | https://firefly.adobe.com/   |Adobe사에서 만든 AI |
+| 이미지 생성 AI  | Leonardo.AI  | -- | https://firefly.adobe.com/   | -- |
+
+ * 미디저니, 드림스튜디오 - 현재 유료로 제공
+ * Craiyon(DALL-E mini) [이동하기](https://www.craiyon.com/)
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
- * Stable Diffusion - [Link](https://stability.ai/news/stable-diffusion-3)
  * Playground AI - 게임 에셋 제작 [Link](https://playgroundai.com/)
- * ChatGPT [Link](https://chat.openai.com/)
- * Gemini [Link](https://gemini.google.com/),
- * Claude [Link](https://claude.ai/)
  * 음악 AI(UDIO) - [Link](https://www.udio.com/)
- * Dream Studio [Link]( )
  * 클로바 더빙 [Link](https://clovadubbing.naver.com/)
  * Viodio     [Link](https://www.viodio.io/main)
  * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
@@ -123,7 +120,6 @@
  * [기업 적용 사례] 롯데백화점은 왜 모든 것을 AI로 바꾸고 있을까? [유튜브](https://www.youtube.com/watch?v=f-yntvJXDmc)
  * Andrej Karpathy
  * Visily AI
- * 
 
 ###  유용한 사이트 
  * Dream by Wombo [Link](https://dream.ai/create)
@@ -133,7 +129,6 @@
  * 한국어 문장 읽기 소프트 [Link](https://ondoku3.com/ko/)
 
 ### 데이터 분석 도구 및 활용 사이트
-
 orange datamining [Link](https://orangedatamining.com/)
 
 ### 국내 데이터 셋
