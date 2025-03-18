@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e5703d15-06f4-41d8-97a2-4e2204e03df2)![image](https://github.com/user-attachments/assets/5fef2930-e1b5-4ce8-b2ed-b9523cd48888)![image](https://github.com/user-attachments/assets/2e356fba-bb19-47eb-b4af-5349e4aa7a88)## UPGRADE
+## UPGRADE
 
 ### 관련 강의 사이트
   * 네이버 edwith(https://www.edwith.org/search/index) ****(좋음)
