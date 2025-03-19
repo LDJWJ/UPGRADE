@@ -1,16 +1,21 @@
 ## UPGRADE
 
 ### 관련 강의 사이트
+
+### 인공지능 강의
+  * Andrej Karpathy 님의 1시간짜리 인공지능 강의 (번역) [Link](https://www.youtube.com/watch?v=rRpZEGCpNbE)
+  * DeepLearning AI [Link](https://www.deeplearning.ai/courses/)
+
+### 공통
   * 네이버 부스트코드(https://www.boostcourse.org/) ****(좋음)
   * Coursera(https://www.coursera.org/) ****(좋음)
   * Udacity Courses(https://www.udacity.com/courses/all) ****(좋음)
   * Udemy(https://www.udemy.com/) ***(무료/유료 강좌 사이트)
-  * 이노베이션스퀘어 [Link](http://ictinnovation.kr/)
   * 구름EDU(https://edu.goorm.io/)
+  * 이노베이션스퀘어 [Link](http://ictinnovation.kr/)
 
-### 인공지능 강의
-  * Andrej Karpathy 님의 1시간짜리 인공지능 강의 (번역) [Link](https://www.youtube.com/watch?v=rRpZEGCpNbE)
-  * 
+
+
 
 ### ChatGPT 관련, OpenAI 관련
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
