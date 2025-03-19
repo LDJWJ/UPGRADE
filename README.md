@@ -8,6 +8,10 @@
   * 이노베이션스퀘어 [Link](http://ictinnovation.kr/)
   * 구름EDU(https://edu.goorm.io/)
 
+### 인공지능 강의
+  * Andrej Karpathy 님의 1시간짜리 인공지능 강의 (번역) [Link](https://www.youtube.com/watch?v=rRpZEGCpNbE)
+  * 
+
 ### ChatGPT 관련, OpenAI 관련
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   * Reasoning Models 빠른 시작 o1-preview, o1-mini [Link](https://platform.openai.com/docs/guides/reasoning)
