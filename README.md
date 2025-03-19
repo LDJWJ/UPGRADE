@@ -1,7 +1,7 @@
 ## UPGRADE
 
 ### 관련 강의 사이트
-  * 네이버 edwith(https://www.edwith.org/search/index) ****(좋음)
+  * 네이버 부스트코드(https://www.boostcourse.org/) ****(좋음)
   * Coursera(https://www.coursera.org/) ****(좋음)
   * Udacity Courses(https://www.udacity.com/courses/all) ****(좋음)
   * Udemy(https://www.udemy.com/) ***(무료/유료 강좌 사이트)
