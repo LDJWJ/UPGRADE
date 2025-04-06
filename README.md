@@ -60,7 +60,8 @@
 | 비디오 생성 AI  | AI Studios by Deepbrain AI  | 사람처럼 보이고 행동하는 AI 아바타 만들기, AI 휴먼과 원활하고 매력적인 대화 가능, 뉴스 등 | https://www.aistudios.com/ko | -- |
 | 비디오 생성 AI  | Colossyan   | 기업 교육용 비디오 제작에 특화. AI 아바타로 교육 콘텐츠, 프레젠테이션 비디오 제작. | https://www.colossyan.com/ | 음성을 녹음 후, 이에 대한 영상 생성 |
 | 비디오 생성 AI  | wan.video | 비디오 생성 | https://wan.video/  | 영상 제작   |
-| 비디오 생성 AI  | Google AI Studio | 비디오 생성 | https://aistudio.google.com/  | 영상 제작   |
+| 비디오 생성 AI  | Focal | 비디오 생성 | https://focalml.com/  | 영상 제작   |
+| 비디오 생성 AI  | Google AI Studio | 이미지 생성 | https://aistudio.google.com/  | 영상 제작   |
 | 비디오 생성 AI  | ImageFX | 비디오 생성 | https://labs.google/fx/tools/image-fx | 영상 제작   |
 
 
