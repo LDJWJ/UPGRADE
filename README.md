@@ -63,6 +63,7 @@
 | 비디오 생성 AI  | Focal | 비디오 생성 | https://focalml.com/  | 영상 제작   |
 | 비디오 생성 AI  | Google AI Studio | 이미지 생성 | https://aistudio.google.com/  | 영상 제작   |
 | 비디오 생성 AI  | ImageFX | 비디오 생성 | https://labs.google/fx/tools/image-fx | 영상 제작   |
+| 비디오 생성 AI  | hailuoai | 비디오 생성 | https://hailuoai.video/ | 영상 제작   |
 
 
  * 미디저니, 드림스튜디오 - 현재 유료로 제공
