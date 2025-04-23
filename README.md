@@ -74,6 +74,13 @@
  * Viodio     [Link](https://www.viodio.io/main)
  * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
 
+### 음악 생성 AI
+| 구분 | 이름 | 특징 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- |
+| 음악 생성 AI | UDIO | https://www.udio.com/ |  |--- |
+| 음악 생성 AI | suno | https://suno.com/home |  |--- |
+| 음악 생성 AI | 일레븐랩스 | https://elevenlabs.io/ |  | --- |
+
 ### 공모전
 * Thinkgood - https://www.thinkcontest.com/thinkgood/index.do
 * Contest Korea - https://www.contestkorea.com/?int_gbn=1
