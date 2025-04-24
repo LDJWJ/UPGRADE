@@ -15,6 +15,15 @@
   * 이노베이션스퀘어 [Link](http://ictinnovation.kr/)
 
 
+### 분석 도구 
+| 구분 | 이름 | 특징 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- |
+| 유튜브 인기순위 | Playboard  | --- | https://playboard.co/ |--- |
+| 유튜브 인기순위 | 녹스인플로언스 | --- | https://kr.noxinfluencer.com/ |  |
+| 수익확인 | YTLarge | --- | https://ytlarge.com/ |  |
+| 이미지변경 | cloudconvert | --- | https://cloudconvert.com/ |  |
+
+
 
 
 ### ChatGPT 관련, OpenAI 관련
