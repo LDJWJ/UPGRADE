@@ -47,7 +47,6 @@
 | 비디오 생성 AI  | Focal | 비디오 생성 | https://focalml.com/  | 영상 제작   |
 
 
-
 ### ChatGPT 관련, OpenAI 관련
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   * Reasoning Models 빠른 시작 o1-preview, o1-mini [Link](https://platform.openai.com/docs/guides/reasoning)
@@ -74,10 +73,15 @@
 | 회의록 작성, 보고서 시각화  | Napkin AI | 회의록 작성, 보고서 시각화, 도식화 자동 생성 | https://www.napkin.ai/ | -- |
 | 강의 자료 분석  | Notebook LM | 문서 기반 데이터 분석 및 정보 추출. | https://www.napkin.ai/ | -- |
 
+### 음악 생성 AI
+| 구분 | 이름 | 특징 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- |
+| 음악 생성 AI | UDIO | https://www.udio.com/ |  |--- |
+| 음악 생성 AI | suno | https://suno.com/home |  |--- |
+| 음악 생성 AI | 일레븐랩스 | https://elevenlabs.io/ |  | --- |
 
 
-
-
+ * 템프 메일: https://temp-mail.org/en/
  * 미디저니, 드림스튜디오 - 현재 유료로 제공
  * Craiyon(DALL-E mini) [이동하기](https://www.craiyon.com/)
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
@@ -87,12 +91,7 @@
  * Viodio     [Link](https://www.viodio.io/main)
  * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
 
-### 음악 생성 AI
-| 구분 | 이름 | 특징 | 링크 | 비고 | 
-| --- | --- | --- | --- | --- |
-| 음악 생성 AI | UDIO | https://www.udio.com/ |  |--- |
-| 음악 생성 AI | suno | https://suno.com/home |  |--- |
-| 음악 생성 AI | 일레븐랩스 | https://elevenlabs.io/ |  | --- |
+
 
 ### 공모전
 * Thinkgood - https://www.thinkcontest.com/thinkgood/index.do
