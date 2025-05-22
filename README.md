@@ -23,6 +23,15 @@
 | 수익확인 | YTLarge | --- | https://ytlarge.com/ |  |
 | 이미지변경 | cloudconvert | --- | https://cloudconvert.com/ |  |
 
+
+
+### TTS
+| 구분 | 이름 | 특징 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- |
+| TTS | VOICEVOX  | 무료, 일본어 | https://voicevox.hiroshiba.jp/ |--- |
+
+
+
 ### 이미지/비디오 생성 AI 사이트
 | 구분 | 이름 | 특징 | 링크 | 비고 | 
 | --- | --- | --- | --- | --- |
