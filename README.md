@@ -37,7 +37,6 @@
 ### 이미지/비디오 생성 AI 사이트
 | 구분 | 이름 | 특징 | 링크 | 비고 | 
 | --- | --- | --- | --- | --- |
-| 비디오 생성 AI  | Veo2 | 비디오 생성 | https://veo2ai.com/ | 영상 제작   |
 | 비디오 생성 AI  | ImageFX | 비디오 생성 | https://labs.google/fx/tools/image-fx | 영상 제작   |
 | 비디오 생성 AI  | hailuoai | 비디오 생성 | https://hailuoai.video/ | 영상 제작   |
 | 비디오 생성 AI  | Genspark | 비디오, 이미지 생성 | https://www.genspark.ai/  | 무료로 많은 기능 제공, 마인트맵  |
@@ -57,6 +56,7 @@
 | 비디오 생성 AI  | Colossyan   | 기업 교육용 비디오 제작에 특화. AI 아바타로 교육 콘텐츠, 프레젠테이션 비디오 제작. | https://www.colossyan.com/ | 음성을 녹음 후, 이에 대한 영상 생성 |
 | 비디오 생성 AI  | wan.video | 비디오 생성 | https://wan.video/  | 영상 제작   |
 | 비디오 생성 AI  | Focal | 비디오 생성 | https://focalml.com/  | 영상 제작   |
+| 비디오 생성 AI  | Veo2 | 비디오 생성(추후 일반인 공개 예정) | https://veo2ai.com/ | 영상 제작   |
 
 
 ### ChatGPT 관련, OpenAI 관련
