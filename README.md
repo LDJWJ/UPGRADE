@@ -59,6 +59,8 @@
 | 비디오 생성 AI  | Veo2 | 비디오 생성(추후 일반인 공개 예정) | https://veo2ai.com/ | 영상 제작   |
 
 
+* 기타 참고 : https://www.youtube.com/watch?v=Eyj-i0euL9M
+
 ### ChatGPT 관련, OpenAI 관련
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   * Reasoning Models 빠른 시작 o1-preview, o1-mini [Link](https://platform.openai.com/docs/guides/reasoning)
