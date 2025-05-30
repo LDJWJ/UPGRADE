@@ -2,10 +2,6 @@
 
 ### 관련 강의 사이트
 
-### 인공지능 강의
-  * Andrej Karpathy 님의 1시간짜리 인공지능 강의 (번역) [Link](https://www.youtube.com/watch?v=rRpZEGCpNbE)
-  * DeepLearning AI [Link](https://www.deeplearning.ai/courses/)
-
 ### 공통
   * 네이버 부스트코드(https://www.boostcourse.org/) ****(좋음)
   * Coursera(https://www.coursera.org/) ****(좋음)
@@ -15,6 +11,7 @@
   * 이노베이션스퀘어 [Link](http://ictinnovation.kr/)
 
 
+### 관련 TOOL
 ### 분석 도구 
 | 구분 | 이름 | 특징 | 링크 | 비고 | 
 | --- | --- | --- | --- | --- |
@@ -107,6 +104,10 @@
  * Viodio     [Link](https://www.viodio.io/main)
  * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
 
+
+### 인공지능 강의
+  * Andrej Karpathy 님의 1시간짜리 인공지능 강의 (번역) [Link](https://www.youtube.com/watch?v=rRpZEGCpNbE)
+  * DeepLearning AI [Link](https://www.deeplearning.ai/courses/)
 
 
 ### 공모전
