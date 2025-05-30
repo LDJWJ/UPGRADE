@@ -75,7 +75,7 @@
 | 생성 AI 챗봇  | ChatGPT | OpenAI | https://chat.openai.com/ | 무료, $20/월, Pro $200/월 |
 | 생성 AI 챗봇  | Claude | Anthropic  | https://claude.ai/ | 무료, $20/월 |
 | 생성 AI 챗봇  | Grok | X  | https://grok.com/ | X를 이용하여 가입 무료, $30/월, Pro  $300/월 |
-| 생성 AI 챗봇  | Gemini | 글쓰기, 출처 | https://gemini.google.com/ | 무료 및 기타 |
+| 생성 AI 챗봇  | Gemini | 글쓰기, 출처 | https://gemini.google.com/ | 무료 및 Pro 월 2만9천원(Veo2,Whisk한도증가) |
 | 검색,채팅,이미지생성  | Genspark | 다목적 AI 비서 | https://www.genspark.ai/ | 무료, $19.99/월 |
 | 챗봇 생성 AI  | perplexity | 검색 기능 최적화(출처,  | https://www.perplexity.ai/ | 무료, $19.99/월 |
 | 챗봇 생성 AI  | wrtn | 글쓰기, 출처 | https://wrtn.ai/ | 무료 및 기타 |
