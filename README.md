@@ -12,14 +12,14 @@
 
 
 ### 관련 TOOL
-### 분석 도구 
+### 분석 도구 및 유용한 도구 
 | 구분 | 이름 | 특징 | 링크 | 비고 | 
 | --- | --- | --- | --- | --- |
 | 유튜브 인기순위 | Playboard  | --- | https://playboard.co/ |--- |
 | 유튜브 인기순위 | 녹스인플로언스 | --- | https://kr.noxinfluencer.com/ |  |
 | 수익확인 | YTLarge | --- | https://ytlarge.com/ |  |
 | 이미지변경 | cloudconvert | --- | https://cloudconvert.com/ |  |
-
+| Tiktok 무료 다운로드 |  | SnapTik | https://snaptik.kim/ | TipTok 사이트 URL로 영상다운로드  |
 
 
 ### TTS
@@ -94,13 +94,10 @@
 | 음악 생성 AI | suno | https://suno.com/home |  |--- |
 | 음악 생성 AI | 일레븐랩스 | https://elevenlabs.io/ |  | --- |
 
-
  * 템프 메일: https://temp-mail.org/en/
- * 미디저니, 드림스튜디오 - 현재 유료로 제공
  * Craiyon(DALL-E mini) [이동하기](https://www.craiyon.com/)
  * 무료 ppt 생성 - Gamma [Link](https://gamma.app/)
  * Playground AI - 게임 에셋 제작 [Link](https://playgroundai.com/)
- * 음악 AI(UDIO) - [Link](https://www.udio.com/)
  * 클로바 더빙 [Link](https://clovadubbing.naver.com/)
  * Viodio     [Link](https://www.viodio.io/main)
  * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
