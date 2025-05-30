@@ -39,6 +39,7 @@
 | 비디오 생성 AI  | Genspark | 비디오, 이미지 생성 | https://www.genspark.ai/  | 무료로 많은 기능 제공, 마인트맵  |
 | 비디오 생성 AI  | Google AI Studio | 이미지 생성 | https://aistudio.google.com/  | 영상 제작   |
 | 이미지 생성 AI  | Whisk(Google) | 비디오 생성(추후 일반인 공개 예정) | https://labs.google/fx/tools/whisk | 이미지 생성   |
+| 이미지 생성 AI  | 미드저니(Midjourney) | 이미지 생성 AI | https://www.midjourney.com/explore | 이미지 생성 - 실제로 많이 사용되는 TOOL. 유료 가능(최소 $10)   |
 | 이미지 생성 AI   | lumaphoton | 이미지 생성 | https://lumaphoton.com/ | 이미지 제작   |
 | 이미지 생성 AI  | Adobe Firefly  | -- | https://firefly.adobe.com/   |Adobe사에서 만든 AI |
 | 이미지 생성 AI | Stable Diffusion Online | --- | https://stablediffusionweb.com/ko |--- |
