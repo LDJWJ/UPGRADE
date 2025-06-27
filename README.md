@@ -141,7 +141,7 @@
 
 ### 빅데이터 & AI 대회
 Data.go.kr [Link](https://www.data.go.kr/suc/preliminaryRound.do)
-
+제주도 사회 문제 해결 아이디어 참고 [Link](https://www.jejudsi.kr/issue.htm)
 
 
 | 기간                       | 대회명                                    | 대상          | 링크                                                                         | 비고 |
@@ -154,11 +154,7 @@ Data.go.kr [Link](https://www.data.go.kr/suc/preliminaryRound.do)
 | 2025.04.14 ~ 2025.06.13 23:59 | 영천시 공공 데이터 활용 경진대회 4회       | 대한민국 국민 누구나 (개인 또는 4명 이내 팀) | [Link](https://www.ycdatacon.kr/) | 아이디어 기획 / 데이터 시각화 부문 | 접수기간: 4/14(월) ~ 6/13(금) 23:59까지 |
 | 2025.05.19 ~ 2025.07.14       | 2025년 외교 공공데이터 활용 경진대회                         | 외교 공공데이터에 관심 있는 국민 누구나 (개인·팀 최대 4인) | [Link](https://epeople.go.kr/) / [email](mailto:opendata@kf.or.kr) | 공모기간: 5.19 ~ 7.14<br>서류·발표평가: 7월 말 ~ 8월 중순<br>결과발표·시상: 8월 말 ~ 9월 초 | • 공모부문: 아이디어 기획 / 제품·서비스 개발<br>• 제출방법: 국민생각함(epeople.go.kr) 또는 이메일(opendata@kf.or.kr)<br>• 주최/주관: 외교부 / KOICA·한국국제교류재단·한·아프리카재단<br>• 활용데이터: 외교부·KOICA·KF·한·아프리카재단 개방데이터 |
 | 2025.06.10 ~ 2025.07.16 | 2025 제주 공공데이터 활용 창업경진대회          | 제한없음: 대한민국 국민 누구나         | [Link](https://jejudsi.kr/idea.htm?act=view&contest=29) | 공모기간: 6/10 ~ 7/16        | • 공모부문: 아이디어 기획 / 제품 및 서비스 개발<br>• 상금 총 1,000만원<br>• 주최/주관: 제주특별자치도·제주지방기상청·JDC·제주특별자치도개발공사 :contentReference[oaicite:0]{index=0} |
-
-
-
-| 2025.03.24 \~ 2025.05.03 | 2025년 국토교통 데이터활용 경진대회                       | –           | [Link](https://www.bigdata-transportation.kr/)                             | - |
-| 2023.04.17 \~ 2023.06.02 | 창업 및 서비스 아이디어 경진대회                     | –           | [Link](https://www.mogefdatacontest.co.kr/notice_detail.jsp?idx=8)         | - |
+| 2025.06.02 ~ 2025.07.07 | 2025 문화 디지털혁신 및 데이터 활용 공모전         | 대한민국 국민 누구나 (개인·단체 최대 5인)           | [Link](https://culture.go.kr/digicon)           | 접수: 6.2 ~ 7.7<br>1차 서류: 7.14 ~ 7.18<br>2차 발표: 7.28 ~ 8.1<br>수상작 발표: 8.11<br>시상식: 11.18 | • **공모부문**<br>– 우수사례: 문화 디지털혁신 / 문화데이터 활용<br>– 특별상: AI 기술 활용 우수사례<br>– 아이디어: 문화 디지털혁신 / 문화데이터 활용<br>– 특별상: AI 기술 활용 우수 아이디어<br>– 데이터분석: 문화데이터 분석 인사이트<br>• **시상**: 총 17점·5,400만원<br>• **필수데이터**: 공공데이터포털·문화데이터광장·문화빅데이터플랫폼 등 문화분야 공공데이터 활용 |
 | 2019                     | WIDER FACE AND PERSON CHALLENGE (2019) | –           | [Link](https://wider-challenge.org/2019.html)                              | - |
 | 2018                     | WIDER FACE AND PERSON CHALLENGE (2018) | –           | [Link](https://wider-challenge.org/2018.html)                              | - |
 | –                        | 서명 관련 온라인 서명 서비스 (SignWell)            | –           | [Link](https://www.signwell.com/online-signature/draw/)                    |- |
