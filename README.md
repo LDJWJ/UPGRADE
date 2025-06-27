@@ -151,21 +151,13 @@ Data.go.kr [Link](https://www.data.go.kr/suc/preliminaryRound.do)
 | 2025.05.19 ~ 2025.07.18 | 2025년 새만금 공공데이터 활용 경진대회           | 국민 누구나               | [Link](https://datacontest.kr/) | 접수기간: 5.19 ~ 7.18   | • 공모부문: 새만금 데이터 아이디어 기획 / 새만금 데이터 분석 및 생산<br>• 참가자격: 국민 누구나(개인·팀·예비창업자·기업·학계 등)<br>• 심사 및 특전: 1차(서류), 2차(발표) 심사 후 선정<br>  최우수 수상작은 행안부 주관 제13회 범정부 공공데이터 창업경진대회 참여<br>• 우수작 선정: 아이디어 기획 8팀 · 데이터 분석·생산 6팀 |
 | 2025.04.01 ~ 2025.07.20   | 2025년 관세청 공공데이터 활용 경진대회           | 관세청 공공데이터에 관심 있는 누구나 (개인·단체 최대 5인) | [Link](https://www.customs.go.kr/)            | 접수: 4.1 ~ 7.20<br>1차 서류평가: 7.21 ~ 8.1<br>2차 발표평가: 8.4 ~ 8.14<br>최종 시상: 8월 말 | • 공모부문: 아이디어 기획 / 제품 및 서비스 개발<br>• 참가자격: 개인 또는 단체(팀·예비창업자·기업·기관 등)<br>• 신청방법: 이메일(customsdata@korea.kr)<br>• 시상규모: 아이디어 기획 최우수 100만·우수 60만·장려 30만·제품·서비스 개발 최우수 200만·우수 140만·장려 60만 |
 | 2025.05.07 ~ 2023.08.06 | 날씨빅데이터콘테스트                             | 일반국민 누구나    | [이동](http://bd.kma.go.kr/contest)                                          | • 일정: 대회자료 배포 5/7(수) → 온라인 멘토링 5/7 ~ 6/27 → 공모작 제출 6/11 ~ 6/27 → 1차 심사(예선) 7/9 → 2차 심사(본선) 8/6<br>• 공모주제: ① 지역난방 열수요 및 날씨 예측<br>② 소방데이터·날씨 빅데이터 융합 119 신고 건수 예측<br>③ 기상·지하철 혼잡도 상관분석·예측<br>• 참가방법: bd.kma.go.kr/contest 접수<br>• 시상: 최우수상(환경부장관상·1팀·각 주제별 300만원), 우수상(기상청장상·1팀·150만원), 특별상·장려상·입선 등 |
-| 2025.04.14 ~ 2025.06.13 23:59 | 영천시 공공 데이터 활용 경진대회       | 대한민국 국민 누구나 (개인 또는 4명 이내 팀) | [Link](https://www.ycdatacon.kr/) | 아이디어 기획 / 데이터 시각화 부문 | 접수기간: 4/14(월) ~ 6/13(금) 23:59까지 |
+| 2025.04.14 ~ 2025.06.13 23:59 | 영천시 공공 데이터 활용 경진대회 4회       | 대한민국 국민 누구나 (개인 또는 4명 이내 팀) | [Link](https://www.ycdatacon.kr/) | 아이디어 기획 / 데이터 시각화 부문 | 접수기간: 4/14(월) ~ 6/13(금) 23:59까지 |
+| 2025.05.19 ~ 2025.07.14       | 2025년 외교 공공데이터 활용 경진대회                         | 외교 공공데이터에 관심 있는 국민 누구나 (개인·팀 최대 4인) | [Link](https://epeople.go.kr/) / [email](mailto:opendata@kf.or.kr) | 공모기간: 5.19 ~ 7.14<br>서류·발표평가: 7월 말 ~ 8월 중순<br>결과발표·시상: 8월 말 ~ 9월 초 | • 공모부문: 아이디어 기획 / 제품·서비스 개발<br>• 제출방법: 국민생각함(epeople.go.kr) 또는 이메일(opendata@kf.or.kr)<br>• 주최/주관: 외교부 / KOICA·한국국제교류재단·한·아프리카재단<br>• 활용데이터: 외교부·KOICA·KF·한·아프리카재단 개방데이터 |
+
+
+
 | 2025.03.24 \~ 2025.05.03 | 2025년 국토교통 데이터활용 경진대회                       | –           | [Link](https://www.bigdata-transportation.kr/)                             | - |
-
-
-
 | 2023.04.17 \~ 2023.06.02 | 창업 및 서비스 아이디어 경진대회                     | –           | [Link](https://www.mogefdatacontest.co.kr/notice_detail.jsp?idx=8)         | - |
-
-| 2023.04.24 \~ 2023.06.04 | 환경부 데이터 분석 경진대회                        | –           | [Link](https://www.all-con.co.kr/view/contest/496096?page=22)              | - |
-| 2023.04.10 \~ 2023.07.02 | 교육·공공데이터 분석활용대회                        | –           | [Link](https://www.all-con.co.kr/view/contest/495458?page=47)              | - |
-| 2023.05.08 \~ 2023.06.09 | GenAI 공공데이터 창업경진대회                     | –           | [Link](https://www.all-con.co.kr/view/contest/496472?page=1)               | - |
-| 2023.05.01 \~ 2023.06.16 | 전주시 데이터 분석 공모전                         | –           | [Link](https://www.all-con.co.kr/view/contest/496452?page=3)               | - |
-| 2022.06.15 \~ 2022.06.28 | 문화·관광빅데이터 분석 대회                        | 국내 대학·대학원생  | [Link](http://www.tourbigdata.kr/introduce.asp)                            | - |
-| 2022.06.22 \~ 2022.07.31 | 문화데이터 경진대회 (문체부)                       | 대한민국 국민 누구나 | [Link](https://www.culture.go.kr/data/contest/main.do)                     | - |
-| 2022.08.30 \~ 2022.11.07 | 빅콘테스트                                  | –           | [Link](https://www.bigcontest.or.kr/)                                      | - |
-| 2022.09.19 \~ 2022.11.02 | 서울시 빅데이터 캠퍼스                           | –           | [Link](https://bigdata.seoul.go.kr/cntst/selectPageListCntst.do?r_id=P600) | - |
 | 2019                     | WIDER FACE AND PERSON CHALLENGE (2019) | –           | [Link](https://wider-challenge.org/2019.html)                              | - |
 | 2018                     | WIDER FACE AND PERSON CHALLENGE (2018) | –           | [Link](https://wider-challenge.org/2018.html)                              | - |
 | –                        | 서명 관련 온라인 서명 서비스 (SignWell)            | –           | [Link](https://www.signwell.com/online-signature/draw/)                    |- |
