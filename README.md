@@ -59,9 +59,8 @@
 | 비디오 생성 AI  | Focal | 비디오 생성 | https://focalml.com/  | 영상 제작   |
 | 비디오 생성 AI  | Veo2 | 비디오 생성(추후 일반인 공개 예정) | https://veo2ai.com/ | 영상 제작   |
 
-
-
 * 기타 참고 : https://www.youtube.com/watch?v=Eyj-i0euL9M
+
 
 ### ChatGPT 관련, OpenAI 관련
   * Prompt Engineering - DeepLearning.AI & OpenAI [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
@@ -88,6 +87,7 @@
 | 영상요약 AI  | Lilys AI | 영상, 음성, PDF, 웹사이트 요약 | https://lilys.ai/ | 무료 및 기타 |
 | 회의록 작성, 보고서 시각화  | Napkin AI | 회의록 작성, 보고서 시각화, 도식화 자동 생성 | https://www.napkin.ai/ | -- |
 | 강의 자료 분석  | Notebook LM | 문서 기반 데이터 분석 및 정보 추출. | https://www.napkin.ai/ | -- |
+
 
 ### 음악 생성 AI
 | 구분 | 이름 | 특징 | 링크 | 비고 | 
@@ -140,26 +140,29 @@
 | 🔍 AI CONTENTS CHALLENGE | 24.12.16 ~ 25.01.10 | 아모레 퍼시픽,  AI 콘텐츠 제작에 관심이 있는 누구나 | [Link](https://linkareer.com/activity/214506) |
 
 ### 빅데이터 & AI 대회
-* 23.05.01 ~ 07.10(23년도) 공공데이터 활용 대회(아이디어, 빅데이터분석) [이동](https://datacontest.kr/apply/applyAdd/3) 
-* 23.05.08 ~ 23.06.09(23년도) 날씨빅데이터콘테스트[이동](bd.kma.go.kr/contest) - 일반국민누구나
-* 23.04.17 ~ 23.06.16(23년도) 영천시 공공 데이터 활용 경진대회
-* 23.04.17 ~ 23.05.31(23년도) 성남시 공공데이터 활용/분석 아이디어 공모전 [Link](https://www.all-con.co.kr/view/contest/495704?page=38&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.04.13 ~ 23.05.31(23년도) 충남올담 데이터 시각화 경진대회 [Link](https://www.all-con.co.kr/view/contest/495571?page=42&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.04.17 ~ 23.06.02(23년도) 창업 및 서비스 아이디어 경진대회 [Link](https://www.mogefdatacontest.co.kr/notice_detail.jsp?idx=8)
-* 23.04.21 ~ 23.06.28(23년도) 국토교통 데이터 활용 경진대회 [Link](https://www.bigdata-transportation.kr/)
-* 23.04.24 ~ 23.06.04(23년도) 환경부 - 데이터 분석 경진대회 [Link](https://www.all-con.co.kr/view/contest/496096?page=22&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.04.10 ~ 23.07.02(23년도) 교육 - 공공데이터 분석활용대회 [Link](https://www.all-con.co.kr/view/contest/495458?page=47&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.05.08 ~ 23.06.09(23년도) GenAI.공공데이터창업경진대회 [Link](https://www.all-con.co.kr/view/contest/496472?page=1&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.05.01 ~ 23.06.16(23년도) 전주시 데이터 분석 공모전 [Link](https://www.all-con.co.kr/view/contest/496452?page=3&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 23.04.17 ~ 23.06.23(23년도) 경상남도 공공데이터 활용 아이디어 공모전 [Link](https://www.all-con.co.kr/view/contest/496194?page=18&sortname=cl_order&sortorder=asc&t=3&ct=&sc=&tg=)
-* 
-* 06/15~06/28(22년도) - [문화.관광빅데이터 분석 대회](http://www.tourbigdata.kr/introduce.asp) - 국내 대학 및 대학원생
-* 06/22~07/31(22년도) [문화데이터 경진대회-문체부](https://www.culture.go.kr/data/contest/main.do) -문화데이터에 관심있는 대한민국 국민 누구나
-* 08/30~11/07(22년도) [빅콘테스트] (https://www.bigcontest.or.kr/) 
-* 22/0919 ~ 22/1102 [서울시 빅데이터 캠퍼스](https://bigdata.seoul.go.kr/cntst/selectPageListCntst.do?r_id=P600) 
-* WIDER FACE AND PERSON CHALLENGE [2019년](https://wider-challenge.org/2019.html) [2018년](https://wider-challenge.org/2018.html)
-* [서명관련 www.signwell.com](https://www.signwell.com/online-signature/draw/)
-* [네이버 AI 해커톤] (https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)
+| 기간                       | 대회명                                    | 대상          | 링크                                                                         | 비고 |
+| ------------------------ | -------------------------------------- | ----------- | -------------------------------------------------------------------------- | - |
+| 2025.06.09 \~ 2025.08.27 | 수도권 생활이동 데이터 해커톤           |  일반부, 학생부 모집  | [Link](https://uosdatahackathon.kr/)  | 1. 참가자 모집 6/9 ~ 7/11 : 일반부/학생부 모집 및 참가 신청서 등 서류 제출<br>2. 서면 심사 7/14 ~ 7/25 : 서면심사를 통해 해커톤 참가팀 선정<br>3. 본선 진출팀 발표 7/28 : 본선 진출팀 발표 (취소팀 발생 시 예비 순으로 추가 선발)<br>4. 사전 프로젝트 기간 8/4 ~ 8/26 : 슈퍼컴퓨터 교육 및 해커톤 사전 프로젝트 실시<br>5. 최종 발표 및 심사 8/27 : 최종 발표 및 심사 |
+| 2023.05.01 \~ 2023.07.10 | 공공데이터 활용 대회 (아이디어·빅데이터분석)              | –           | [이동](https://datacontest.kr/apply/applyAdd/3)                              | - |
+| 2023.05.08 \~ 2023.06.09 | 날씨빅데이터콘테스트                             | 일반국민 누구나    | [이동](http://bd.kma.go.kr/contest)                                          | - |
+| 2023.04.17 \~ 2023.06.16 | 영천시 공공 데이터 활용 경진대회                     | –           | –                                                                          | - |
+| 2023.04.17 \~ 2023.05.31 | 성남시 공공데이터 활용·분석 아이디어 공모전               | –           | [Link](https://www.all-con.co.kr/view/contest/495704?page=38)              | - |
+| 2023.04.13 \~ 2023.05.31 | 충남올담 데이터 시각화 경진대회                      | –           | [Link](https://www.all-con.co.kr/view/contest/495571?page=42)              | - |
+| 2023.04.17 \~ 2023.06.02 | 창업 및 서비스 아이디어 경진대회                     | –           | [Link](https://www.mogefdatacontest.co.kr/notice_detail.jsp?idx=8)         | - |
+| 2023.04.21 \~ 2023.06.28 | 국토교통 데이터 활용 경진대회                       | –           | [Link](https://www.bigdata-transportation.kr/)                             | - |
+| 2023.04.24 \~ 2023.06.04 | 환경부 데이터 분석 경진대회                        | –           | [Link](https://www.all-con.co.kr/view/contest/496096?page=22)              | - |
+| 2023.04.10 \~ 2023.07.02 | 교육·공공데이터 분석활용대회                        | –           | [Link](https://www.all-con.co.kr/view/contest/495458?page=47)              | - |
+| 2023.05.08 \~ 2023.06.09 | GenAI 공공데이터 창업경진대회                     | –           | [Link](https://www.all-con.co.kr/view/contest/496472?page=1)               | - |
+| 2023.05.01 \~ 2023.06.16 | 전주시 데이터 분석 공모전                         | –           | [Link](https://www.all-con.co.kr/view/contest/496452?page=3)               | - |
+| 2022.06.15 \~ 2022.06.28 | 문화·관광빅데이터 분석 대회                        | 국내 대학·대학원생  | [Link](http://www.tourbigdata.kr/introduce.asp)                            | - |
+| 2022.06.22 \~ 2022.07.31 | 문화데이터 경진대회 (문체부)                       | 대한민국 국민 누구나 | [Link](https://www.culture.go.kr/data/contest/main.do)                     | - |
+| 2022.08.30 \~ 2022.11.07 | 빅콘테스트                                  | –           | [Link](https://www.bigcontest.or.kr/)                                      | - |
+| 2022.09.19 \~ 2022.11.02 | 서울시 빅데이터 캠퍼스                           | –           | [Link](https://bigdata.seoul.go.kr/cntst/selectPageListCntst.do?r_id=P600) | - |
+| 2019                     | WIDER FACE AND PERSON CHALLENGE (2019) | –           | [Link](https://wider-challenge.org/2019.html)                              | - |
+| 2018                     | WIDER FACE AND PERSON CHALLENGE (2018) | –           | [Link](https://wider-challenge.org/2018.html)                              | - |
+| –                        | 서명 관련 온라인 서명 서비스 (SignWell)            | –           | [Link](https://www.signwell.com/online-signature/draw/)                    |- |
+| –                        | 네이버 AI 해커톤                             | –           | [Link](https://campaign.naver.com/aihackathon_speech/?snsYn=Y#none)        |- |
+
 
 ### AI 논문 관련 사이트
   * paperswithcode [Link](https://paperswithcode.com/methods)
