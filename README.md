@@ -34,30 +34,32 @@
 ### 이미지/비디오 생성 AI 사이트
 | 구분 | 이름 | 특징 | 링크 | 비고 | 
 | --- | --- | --- | --- | --- |
-| 비디오 생성 AI  | ImageFX | 비디오 생성 | https://labs.google/fx/tools/image-fx | 영상 제작   |
-| 비디오 생성 AI  | hailuoai | 비디오 생성 | https://hailuoai.video/ | 영상 제작   |
-| 비디오 생성 AI  | Genspark | 비디오, 이미지 생성 | https://www.genspark.ai/  | 무료로 많은 기능 제공, 마인트맵  |
-| 비디오 생성 AI  | Google AI Studio | 이미지 생성 | https://aistudio.google.com/  | 영상 제작   |
+| 비디오 생성 AI  | sora| ChatGPT와 통합된 텍스트 기반 영상 생성, 스토리보드 기능 | https://sora.chatgpt.com/explore  | -- |
+| 비디오 생성 AI  | Google Veo 3 | 영상에 맞는 동기화된 오디오(음악, 효과음, 음성) 자동 생성 <br> 2025년 5월 출시 | https://gemini.google/overview/video-generation/?hl=ko | 영상 제작   |
+| 이미지/비디오 생성 AI  | Waver | 텍스트 → 비디오, 이미지 → 비디오, 텍스트 → 이미지까지 한 번에 가능한 멀티모달 생성 도구 | https://wavel.ai/ | 영상 제작   |
+| 이미지 생성 AI  | 미드저니(Midjourney) | 이미지 생성 AI <br> 고품질·실사용자 많음 | https://www.midjourney.com/explore | 이미지 생성 - 실제로 많이 사용되는 TOOL. 유료 가능(최소 $10)   |
 | 이미지 생성 AI  | Whisk(Google) | 비디오 생성(추후 일반인 공개 예정) | https://labs.google/fx/tools/whisk | 이미지 생성   |
-| 이미지 생성 AI  | 미드저니(Midjourney) | 이미지 생성 AI | https://www.midjourney.com/explore | 이미지 생성 - 실제로 많이 사용되는 TOOL. 유료 가능(최소 $10)   |
-| 이미지 생성 AI   | lumaphoton | 이미지 생성 | https://lumaphoton.com/ | 이미지 제작   |
+| 이미지/비디오 생성 AI   | klingai | 이미지/비디오 생성 | https://app.klingai.com/global/ | 이미지, 비디오 제작   |
+| 비디오 생성 AI  | Runway Gen‑4  | 멀티모달 (텍스트·영상·이미지 모두 지원) <br> Runway의 최신 상업용 AI 영상 모델 | https://runwayml.com/  | -- |
 | 이미지 생성 AI  | Adobe Firefly  | -- | https://firefly.adobe.com/   |Adobe사에서 만든 AI |
 | 이미지 생성 AI | Stable Diffusion Online | --- | https://stablediffusionweb.com/ko |--- |
+| 비디오 생성 AI  | hailuoai | 비디오 생성 | https://hailuoai.video/ | 영상 제작   |
+| 비디오 생성 AI  | ImageFX | 비디오 생성 | https://labs.google/fx/tools/image-fx | 영상 제작   |
+| 비디오 생성 AI  | Genspark | 비디오, 이미지 생성 | https://www.genspark.ai/  | 무료로 많은 기능 제공, 마인트맵  |
+| 비디오 생성 AI  | Google AI Studio | 이미지 생성 | https://aistudio.google.com/  | 영상 제작   |
+| 이미지 생성 AI   | lumaphoton | 이미지 생성 | https://lumaphoton.com/ | 이미지 제작   |
 | 이미지 생성 AI  | MS IMAGE CREATOR | 다목적 AI 비서 | https://www.bing.com/images/create | MS 사전 가입 및 로그인 필요 |
 | 이미지 생성 AI  | Dreamina | AI 이미지 생성 | https://dreamina.capcut.com/ | 이미지 생성 |
-| 이미지/비디오 생성 AI   | klingai | 이미지/비디오 생성 | https://app.klingai.com/global/ | 이미지, 비디오 제작   |
 | 이미지 생성 AI  | Stable Diffusion 2.1 Demo | 검색 기능 최적화(출처,  | https://huggingface.co/spaces/stabilityai/stable-diffusion | 무료, 품질이 상대적으로 낮음. 스테이블 디퓨전 2.1 |
 | 이미지 생성 AI  | Leonardo.AI  | -- | https://leonardo.ai/   | -- |
-| AI 아바타 생성 AI  | Synthesia  | AI 아바타를 활용한 스튜디오급 품질의 비디오 제작 | https://www.synthesia.io/   | -- |
-| 비디오 생성 AI  | runway  | 애니메이션이 포함된 비디오 제작에 적합 | https://runwayml.com/  | free Forever |
-| 비디오 생성 AI  | sora| OpenAI 에서 만든 Gen AI | https://openai.com/sora/  | -- |
-| 비디오 생성 AI  | InVideo AI | 매력적인 마케팅 비디오 제작에 적합 | https://www.genspark.ai/  | free Forever, 플러스: 월 $20, 최대: 48/월 |
+| AI 아바타 생성 AI  | Synthesia  | AI 아바타 + 다국어 음성 지원 <br> 기업 교육 or 설명용 비디오에 최적화 | https://www.synthesia.io/   | -- |
+| 비디오 생성 AI  | InVideo AI | SNS 콘텐츠용 비디오 생성 | https://www.genspark.ai/  | free Forever, 플러스: 월 $20, 최대: 48/월 |
 | 비디오 생성 AI  | Kaiber AI | 비디오 제작 | https://www.kaiber.ai/superstudio/  | 무료 버전으로 괜찮음. |
 | 비디오 생성 AI  | AI Studios by Deepbrain AI  | 사람처럼 보이고 행동하는 AI 아바타 만들기, AI 휴먼과 원활하고 매력적인 대화 가능, 뉴스 등 | https://www.aistudios.com/ko | -- |
 | 비디오 생성 AI  | Colossyan   | 기업 교육용 비디오 제작에 특화. AI 아바타로 교육 콘텐츠, 프레젠테이션 비디오 제작. | https://www.colossyan.com/ | 음성을 녹음 후, 이에 대한 영상 생성 |
 | 비디오 생성 AI  | wan.video | 비디오 생성 | https://wan.video/  | 영상 제작   |
 | 비디오 생성 AI  | Focal | 비디오 생성 | https://focalml.com/  | 영상 제작   |
-| 비디오 생성 AI  | Veo2 | 비디오 생성(추후 일반인 공개 예정) | https://veo2ai.com/ | 영상 제작   |
+
 
 * 기타 참고 : https://www.youtube.com/watch?v=Eyj-i0euL9M
 
