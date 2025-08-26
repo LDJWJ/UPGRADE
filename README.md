@@ -85,7 +85,7 @@
 | 챗봇 생성 AI  | wrtn | 글쓰기, 출처 | https://wrtn.ai/ | 무료 및 기타 |
 | 챗봇 생성 AI  | 윅스AI | 한국형 업무 AI | https://wrks.ai/ko/chat | 무료, Basic(24,900), AGI(월 99,900) |
 | 챗봇 생성 AI  | Felo | 파일분석, PPT생성, 주제당50개 파일 업로드 | https://felo.ai/ | 무료 및 월$14.99 |
-| 챗봇 생성 AI  | Alan | 출처, 유튜브 요약 우수 | https://wrtn.ai/ | 무료 및 기타 |
+| 챗봇 생성 AI  | Alan | 출처, 유튜브 요약 우수 | https://alan.estsoft.ai/ | 무료 및 기타 |
 | 영상요약 AI  | Lilys AI | 영상, 음성, PDF, 웹사이트 요약 | https://lilys.ai/ | 무료 및 기타 |
 | 회의록 작성, 보고서 시각화  | Napkin AI | 회의록 작성, 보고서 시각화, 도식화 자동 생성 | https://www.napkin.ai/ | -- |
 | 강의 자료 분석  | Notebook LM | 문서 기반 데이터 분석 및 정보 추출. | https://www.napkin.ai/ | -- |
