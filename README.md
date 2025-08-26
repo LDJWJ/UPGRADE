@@ -59,7 +59,7 @@
 | 비디오 생성 AI  | Colossyan   | 기업 교육용 비디오 제작에 특화. AI 아바타로 교육 콘텐츠, 프레젠테이션 비디오 제작. | https://www.colossyan.com/ | 음성을 녹음 후, 이에 대한 영상 생성 |
 | 비디오 생성 AI  | wan.video | 비디오 생성 | https://wan.video/  | 영상 제작   |
 | 비디오 생성 AI  | Focal | 비디오 생성 | https://focalml.com/  | 영상 제작   |
-
+| 비디오 생성 AI  | Genie 3 | 비디오 생성 <br> 사용자와 상호작용하는 실세계 컨텐츠 생성 AI | https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/  | 출시전  |
 
 * 기타 참고 : https://www.youtube.com/watch?v=Eyj-i0euL9M
 
@@ -90,7 +90,8 @@
 | 실시간 회의록 AI  | Tiro | 실시간 회의록 요약 | https://tiro.ooo/ko/ | -- |
 | 영상요약 AI  | Lilys AI | 영상, 음성, PDF, 웹사이트 요약 | https://lilys.ai/ | 무료 및 기타 |
 | 회의록 작성, 보고서 시각화  | Napkin AI | 회의록 작성, 보고서 시각화, 도식화 자동 생성 | https://www.napkin.ai/ | -- |
-| 강의 자료 분석  | Notebook LM | 문서 기반 데이터 분석 및 정보 추출. | https://www.napkin.ai/ | -- |
+| 동영상 요약 등  | Notebook LM | 동영상을 짧은 시간의 팝캐스트로 변환 | https://www.napkin.ai/ | -- |
+
 
 
 ### 음악 생성 AI
