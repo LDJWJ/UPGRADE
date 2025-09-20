@@ -13,10 +13,50 @@
 ## VIBE CODING
 ### 분석 도구 및 유용한 도구 
 | 구분 | 이름 | 내용 | 링크 | 비고 | 
-| --- | --- | --- | --- | --- |
-| PRD | Vibe PRD  | --- | https://www.vibegen.net/guide |--- |
+| --- | --- | --- | --- | --- | 
+| PRD | Vibe PRD | PRD 작성 도구 | https://www.vibegen.net/guide | PRD 생성 가이드 | 
 
+### AI IDE (데스크톱 기반) 
+| 구분 | 이름 | 내용 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- | 
+| AI IDE | Cursor | AI 파워 개발자용 IDE, VS Code 기반 | https://cursor.sh | $20/월, 고급 제어 기능 | 
+| AI IDE | Windsurf | 첫 번째 AI 에이전트 IDE, 초보자 친화적 | https://windsurf.com | $15/월, Cascade 기능 | 
 
+### 브라우저 기반 바이브 코딩 
+| 구분 | 이름 | 내용 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- | 
+| 웹 IDE | Bolt.new | 초고속 풀스택 프로토타이핑, $40M ARR | https://bolt.new | StackBlitz, 브라우저 실행 | 
+| 웹 IDE | Lovable | 누구나 사용 가능한 앱 빌더, $17M ARR | https://lovable.dev | $20/월, 최고 초보자 친화적 | 
+| 웹 IDE | v0 | Vercel의 React 컴포넌트 생성기 | https://v0.dev | Next.js 생태계 특화 | 
+| 웹 IDE | Replit Agent | 50+ 언어 지원 클라우드 IDE | https://replit.com | $20/월, 교육/협업 중심 | 
+
+### AI 어시스턴트 & 코딩 도구 
+| 구분 | 이름 | 내용 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- | 
+| AI 어시스턴트 | Claude Artifacts | 코드 실행 가능한 Claude 인터페이스 | https://claude.ai | 브라우저에서 코드 실행 | 
+| AI 어시스턴트 | ChatGPT | 코드 생성 및 Canvas 기능 | https://chatgpt.com | GPT-4o, 코드 실행 기능 | 
+| 명령행 도구 | Claude Code | 터미널에서 Claude 사용 | https://docs.claude.com/en/docs/claude-code | 에이전틱 코딩 CLI | 
+| AI IDE 플러그인 | GitHub Copilot | VS Code용 AI 코딩 어시스턴트 | https://github.com/features/copilot | $10/월, 가장 널리 사용 | 
+
+### 모바일 앱 개발 특화 
+| 구분 | 이름 | 내용 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- | 
+| 모바일 IDE | Rork | React Native 모바일 앱 전용 AI 빌더 | https://rork.com | 크로스플랫폼 모바일 | 
+| 코드 생성기 | Workik | React Native 코드 생성 AI | https://workik.com/react-native-code-generator | 무료 플랜 제공 |
+
+### 기타 유용한 도구 
+| 구분 | 이름 | 내용 | 링크 | 비고 | 
+| --- | --- | --- | --- | --- | 
+| 코드 리뷰 | Bito | AI 코드 리뷰 도구 | https://bito.ai | 보안 및 품질 검사 | 
+| 디자인 투 코드 | Builder.io Visual Copilot | Figma → React 코드 변환 | https://www.builder.io | Figma 플러그인 | 
+| 노코드 + AI | UI Bakery | 비즈니스 앱 생성기 | https://uibakery.io | 데이터베이스 통합 |
+
+🎯 활용 가이드 요약
+ - 실전 앱 개발 → Cursor (고급) / Windsurf (초보자)
+ - 빠른 프로토타입 → Bolt.new / Lovable
+ - React 컴포넌트, Next.js → v0
+ - 교육/학습 → Replit Agent, Claude Artifacts
+ - 모바일 앱 → Rork + Workik
 
 ### 관련 TOOL
 ### 분석 도구 및 유용한 도구 
