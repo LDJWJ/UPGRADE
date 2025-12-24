@@ -161,7 +161,7 @@
 
 ### UX/UI 관련 사이트
  * YesVis : [이동하기](https://yesviz.com/viewport/)
-
+ * Framer : [이동하기](https://www.framer.com/)
 
 ### 인공지능 강의
   * Andrej Karpathy 님의 1시간짜리 인공지능 강의 (번역) [Link](https://www.youtube.com/watch?v=rRpZEGCpNbE)
