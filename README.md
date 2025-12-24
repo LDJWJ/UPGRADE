@@ -159,6 +159,10 @@
  * NovelAI  [Link](https://novelai.net/) : 소설 작성 AI
 
 
+### UX/UI 관련 사이트
+
+
+
 ### 인공지능 강의
   * Andrej Karpathy 님의 1시간짜리 인공지능 강의 (번역) [Link](https://www.youtube.com/watch?v=rRpZEGCpNbE)
   * DeepLearning AI [Link](https://www.deeplearning.ai/courses/)
